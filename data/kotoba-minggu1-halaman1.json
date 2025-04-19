@@ -1,18 +1,92 @@
 [
-  {"kotoba": "持つ", "kana": "もつ", "arti": "memegang/memiliki"},
-  {"kotoba": "天気", "kana": "てんき", "arti": "cuaca"},
-  {"kotoba": "話す", "kana": "はなす", "arti": "berbicara"},
-  {"kotoba": "右", "kana": "みぎ", "arti": "kanan"},
-  {"kotoba": "曲がる", "kana": "まがる", "arti": "belok"},
-  {"kotoba": "入る", "kana": "はいる", "arti": "masuk"},
-  {"kotoba": "読む", "kana": "よむ", "arti": "membaca"},
-  {"kotoba": "電車", "kana": "でんしゃ", "arti": "kereta listrik"},
-  {"kotoba": "雨", "kana": "あめ", "arti": "hujan"},
-  {"kotoba": "友達", "kana": "ともだち", "arti": "teman"},
-  {"kotoba": "月曜日", "kana": "げつようび", "arti": "hari Senin"},
-  {"kotoba": "書く", "kana": "かく", "arti": "menulis"},
-  {"kotoba": "毎年", "kana": "まいとし", "arti": "setiap tahun"},
-  {"kotoba": "高い", "kana": "たかい", "arti": "tinggi/mahal"},
-  {"kotoba": "行く", "kana": "いく", "arti": "pergi"},
-  {"kotoba": "後", "kana": "あと", "arti": "setelah/belakang"}
+  {
+    "kotoba": "お金",
+    "kana": "おかね",
+    "arti": "uang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "天気",
+    "kana": "てんき",
+    "arti": "cuaca",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "話さない",
+    "kana": "はなさない",
+    "arti": "tidak berbicara",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "右",
+    "kana": "みぎ",
+    "arti": "kanan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "入って",
+    "kana": "はいって",
+    "arti": "masuk",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "読む",
+    "kana": "よむ",
+    "arti": "membaca",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "電車",
+    "kana": "でんしゃ",
+    "arti": "kereta listrik",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "雨",
+    "kana": "あめ",
+    "arti": "hujan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "友だち",
+    "kana": "ともだち",
+    "arti": "teman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "月ようび",
+    "kana": "げつようび",
+    "arti": "hari Senin",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "書いて",
+    "kana": "かいて",
+    "arti": "menulis",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "毎年",
+    "kana": "まいとし",
+    "arti": "setiap tahun",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "高かった",
+    "kana": "たかかった",
+    "arti": "mahal (bentuk lampau)",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "行きたくない",
+    "kana": "いきたくない",
+    "arti": "tidak ingin pergi",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "後で",
+    "kana": "あとで",
+    "arti": "nanti/setelah",
+    "kategori": "kata keterangan"
+  }
 ]
