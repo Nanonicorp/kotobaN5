@@ -1,0 +1,45 @@
+[
+    // Adjective forms
+    {"kotoba": "寒い", "kana": "さむい", "arti": "dingin (present)"},
+    {"kotoba": "寒かった", "kana": "さむかった", "arti": "dingin (past)"},
+    {"kotoba": "おいしい", "kana": "おいしい", "arti": "enak (present)"},
+    {"kotoba": "おいしくない", "kana": "おいしくない", "arti": "tidak enak"},
+    {"kotoba": "重い", "kana": "おもい", "arti": "berat (present)"},
+    {"kotoba": "重かった", "kana": "おもかった", "arti": "berat (past)"},
+    {"kotoba": "難しい", "kana": "むずかしい", "arti": "sulit"},
+    {"kotoba": "有名", "kana": "ゆうめい", "arti": "terkenal (na-adjective)"},
+
+    // Question words
+    {"kotoba": "どこ", "kana": "どこ", "arti": "di mana"},
+    {"kotoba": "どんな", "kana": "どんな", "arti": "seperti apa"},
+    {"kotoba": "どう", "kana": "どう", "arti": "bagaimana"},
+    {"kotoba": "どの", "kana": "どの", "arti": "yang mana (diikuti noun)"},
+    {"kotoba": "どれ", "kana": "どれ", "arti": "yang mana (standalone)"},
+    {"kotoba": "どちら", "kana": "どちら", "arti": "yang mana (lebih formal)"},
+    {"kotoba": "いくつ", "kana": "いくつ", "arti": "berapa (untuk benda bisa dihitung)"},
+    {"kotoba": "どこか", "kana": "どこか", "arti": "di suatu tempat"},
+    {"kotoba": "どなた", "kana": "どなた", "arti": "siapa (formal)"},
+
+    // Supporting vocabulary
+    {"kotoba": "昨日", "kana": "きのう", "arti": "kemarin"},
+    {"kotoba": "お菓子", "kana": "おかし", "arti": "snack/makanan ringan"},
+    {"kotoba": "テスト", "kana": "テスト", "arti": "tes"},
+    {"kotoba": "晩ご飯", "kana": "ばんごはん", "arti": "makan malam"},
+    {"kotoba": "食べます", "kana": "たべます", "arti": "makan"},
+    {"kotoba": "スポーツ", "kana": "スポーツ", "arti": "olahraga"},
+    {"kotoba": "好き", "kana": "すき", "arti": "suka"},
+    {"kotoba": "みかん", "kana": "みかん", "arti": "jeruk"},
+    {"kotoba": "買いました", "kana": "かいました", "arti": "membeli (lampau)"},
+    {"kotoba": "一緒に", "kana": "いっしょに", "arti": "bersama-sama"},
+    {"kotoba": "映画", "kana": "えいが", "arti": "film"},
+    {"kotoba": "見ました", "kana": "みました", "arti": "menonton/melihat (lampau)"},
+    {"kotoba": "コーヒー", "kana": "コーヒー", "arti": "kopi"},
+    {"kotoba": "ください", "kana": "ください", "arti": "tolong berikan"},
+    {"kotoba": "ペン", "kana": "ペン", "arti": "pulpen"},
+    {"kotoba": "本", "kana": "ほん", "arti": "penghitungan benda panjang"},
+    {"kotoba": "円", "kana": "えん", "arti": "yen"},
+    {"kotoba": "テーブル", "kana": "テーブル", "arti": "meja"},
+    {"kotoba": "上", "kana": "うえ", "arti": "atas"},
+    {"kotoba": "ナイフ", "kana": "ナイフ", "arti": "pisau"},
+    {"kotoba": "フォーク", "kana": "フォーク", "arti": "garpu"}
+]
