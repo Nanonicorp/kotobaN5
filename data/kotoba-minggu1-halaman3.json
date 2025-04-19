@@ -1,5 +1,4 @@
 [
-    // Adjective forms
     {"kotoba": "寒い", "kana": "さむい", "arti": "dingin (present)"},
     {"kotoba": "寒かった", "kana": "さむかった", "arti": "dingin (past)"},
     {"kotoba": "おいしい", "kana": "おいしい", "arti": "enak (present)"},
@@ -9,7 +8,6 @@
     {"kotoba": "難しい", "kana": "むずかしい", "arti": "sulit"},
     {"kotoba": "有名", "kana": "ゆうめい", "arti": "terkenal (na-adjective)"},
 
-    // Question words
     {"kotoba": "どこ", "kana": "どこ", "arti": "di mana"},
     {"kotoba": "どんな", "kana": "どんな", "arti": "seperti apa"},
     {"kotoba": "どう", "kana": "どう", "arti": "bagaimana"},
@@ -20,7 +18,6 @@
     {"kotoba": "どこか", "kana": "どこか", "arti": "di suatu tempat"},
     {"kotoba": "どなた", "kana": "どなた", "arti": "siapa (formal)"},
 
-    // Supporting vocabulary
     {"kotoba": "昨日", "kana": "きのう", "arti": "kemarin"},
     {"kotoba": "お菓子", "kana": "おかし", "arti": "snack/makanan ringan"},
     {"kotoba": "テスト", "kana": "テスト", "arti": "tes"},
