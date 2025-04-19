@@ -15,7 +15,6 @@
     {"kotoba": "駅", "kana": "えき", "arti": "stasiun"},
     {"kotoba": "書いた", "kana": "かいた", "arti": "menulis (lampau)"},
     
-    // Additional supporting vocabulary from the sentences
     {"kotoba": "毎朝", "kana": "まいあさ", "arti": "setiap pagi"},
     {"kotoba": "家", "kana": "いえ", "arti": "rumah"},
     {"kotoba": "ぐらい", "kana": "ぐらい", "arti": "sekitar"},
