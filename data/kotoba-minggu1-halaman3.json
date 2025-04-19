@@ -1,13 +1,110 @@
 [
-    {"type": "verb", "kotoba": "出る", "kana": "でる", "arti": "keluar"},
-    {"type": "noun", "kotoba": "時間", "kana": "じかん", "arti": "waktu (durasi)"},
-    {"type": "noun", "kotoba": "国", "kana": "くに", "arti": "negara"},
-    {"type": "verb", "kotoba": "休む", "kana": "やすむ", "arti": "istirahat"},
-    {"type": "verb", "kotoba": "聞く", "kana": "きく", "arti": "mendengar"},
-    {"type": "verb", "kotoba": "食べる", "kana": "たべる", "arti": "makan"},
-    {"type": "noun", "kotoba": "出口", "kana": "でぐち", "arti": "pintu keluar"},
-    {"type": "adjective", "kotoba": "古い", "kana": "ふるい", "arti": "tua/lama"},
-    {"type": "noun", "kotoba": "学校", "kana": "がっこう", "arti": "sekolah"},
-    {"type": "noun", "kotoba": "花", "kana": "はな", "arti": "bunga"},
-    {"type": "noun", "kotoba": "先生", "kana": "せんせい", "arti": "guru"}
+  {
+    "kotoba": "寒い",
+    "kana": "さむい",
+    "arti": "dingin",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "お菓子",
+    "kana": "おかし",
+    "arti": "camilan/permen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "美味しい",
+    "kana": "おいしい",
+    "arti": "enak",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "重い",
+    "kana": "おもい",
+    "arti": "berat",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "難しい",
+    "kana": "むずかしい",
+    "arti": "sulit",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "有名",
+    "kana": "ゆうめい",
+    "arti": "terkenal",
+    "kategori": "kata sifat (na-adjective)"
+  },
+  {
+    "kotoba": "晩ご飯",
+    "kana": "ばんごはん",
+    "arti": "makan malam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "みかん",
+    "kana": "みかん",
+    "arti": "jeruk",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "トイレ",
+    "kana": "トイレ",
+    "arti": "toilet",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "映画",
+    "kana": "えいが",
+    "arti": "film",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "コーヒー",
+    "kana": "コーヒー",
+    "arti": "kopi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ペン",
+    "kana": "ペン",
+    "arti": "pulpen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "テーブル",
+    "kana": "テーブル",
+    "arti": "meja",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ナイフ",
+    "kana": "ナイフ",
+    "arti": "pisau",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "フォーク",
+    "kana": "フォーク",
+    "arti": "garpu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "いくつ",
+    "kana": "いくつ",
+    "arti": "berapa (untuk benda yang bisa dihitung)",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "どちら",
+    "kana": "どちら",
+    "arti": "yang mana (lebih formal dari どれ)",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "どんな",
+    "kana": "どんな",
+    "arti": "seperti apa",
+    "kategori": "kata tanya"
+  }
 ]
