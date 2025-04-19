@@ -224,7 +224,7 @@ tr:hover {
 }
 
 /* Column Widths */
-.col-no { width: 40px; }
+.col-no { width: 50px; }
 .col-kotoba { width: 25%; }
 .col-kana { width: 30%; }
 .col-arti { width: 35%; }
