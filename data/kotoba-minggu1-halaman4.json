@@ -1,5 +1,4 @@
 [
-    // Verb forms and grammar patterns
     {"kotoba": "食べて", "kana": "たべて", "arti": "makanlah (bentuk -te)"},
     {"kotoba": "飲み", "kana": "のみ", "arti": "minum (bentuk stem)"},
     {"kotoba": "行く", "kana": "いく", "arti": "pergi (bentuk kamus)"},
@@ -12,7 +11,6 @@
     {"kotoba": "覚えて", "kana": "おぼえて", "arti": "ingat/hafal (bentuk -te)"},
     {"kotoba": "切って", "kana": "きって", "arti": "potong (bentuk -te)"},
 
-    // Supporting vocabulary
     {"kotoba": "ご飯", "kana": "ごはん", "arti": "makanan/nasi"},
     {"kotoba": "薬", "kana": "くすり", "arti": "obat"},
     {"kotoba": "飲む", "kana": "のむ", "arti": "minum"},
