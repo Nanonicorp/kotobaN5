@@ -173,6 +173,11 @@ button:disabled {
 }
 
 /* Table Styles */
+.table-wrapper {
+    overflow-x: auto;
+    width: 100%;
+}
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -192,6 +197,7 @@ th, td {
     word-wrap: break-word;
     white-space: normal;
 }
+
 th {
     background-color: var(--secondary);
     color: white;
@@ -221,6 +227,7 @@ tr:hover {
     color: transparent;
     text-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
     user-select: none;
+    transition: text-shadow 0.3s ease;
 }
 
 /* Column Widths */
@@ -347,6 +354,13 @@ footer {
     th, td {
         padding: 10px 8px;
         font-size: 14px;
+    }
+
+    .col-no, .col-action {
+        min-width: 40px;
+        max-width: 55px;
+        text-align: center;
+        word-break: keep-all;
     }
 
     .col-kotoba, .col-kana, .col-arti {
