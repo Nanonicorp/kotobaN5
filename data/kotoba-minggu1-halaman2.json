@@ -1,12 +1,86 @@
 [
-    {"type": "verb", "kotoba": "持つ", "kana": "もつ", "arti": "memegang/membawa"},
-    {"type": "adjective", "kotoba": "忙しい", "kana": "いそがしい", "arti": "sibuk"},
-    {"type": "verb", "kotoba": "曲がる", "kana": "まがる", "arti": "berbelok"},
-    {"type": "verb", "kotoba": "会う", "kana": "あう", "arti": "bertemu"},
-    {"type": "adjective", "kotoba": "好き", "kana": "すき", "arti": "suka"},
-    {"type": "noun", "kotoba": "大勢", "kana": "おおぜい", "arti": "banyak orang"},
-    {"type": "noun", "kotoba": "宿題", "kana": "しゅくだい", "arti": "PR"},
-    {"type": "noun", "kotoba": "昨日", "kana": "きのう", "arti": "kemarin"},
-    {"type": "adjective", "kotoba": "寒い", "kana": "さむい", "arti": "dingin"},
-    {"type": "adjective", "kotoba": "おいしい", "kana": "おいしい", "arti": "enak"}
+  {
+    "kotoba": "出ます",
+    "kana": "でます",
+    "arti": "keluar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "時間",
+    "kana": "じかん",
+    "arti": "waktu/jam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "中",
+    "kana": "じゅう",
+    "arti": "selama/sepanjang (untuk periode waktu)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "国",
+    "kana": "くに",
+    "arti": "negara",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "休みましょう",
+    "kana": "やすみましょう",
+    "arti": "mari beristirahat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "聞きながら",
+    "kana": "ききながら",
+    "arti": "sambil mendengarkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "出口",
+    "kana": "でぐち",
+    "arti": "pintu keluar",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "古い",
+    "kana": "ふるい",
+    "arti": "lama/tua (untuk benda)",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "学校",
+    "kana": "がっこう",
+    "arti": "sekolah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "花",
+    "kana": "はな",
+    "arti": "bunga",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "先生",
+    "kana": "せんせい",
+    "arti": "guru",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "買いたい",
+    "kana": "かいたい",
+    "arti": "ingin membeli",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "駅",
+    "kana": "えき",
+    "arti": "stasiun",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "書いた",
+    "kana": "かいた",
+    "arti": "menulis (bentuk lampau)",
+    "kategori": "kata kerja"
+  }
 ]
