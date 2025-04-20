@@ -1,21 +1,153 @@
 [
   {
+    "kotoba": "食べる",
+    "kana": "たべる",
+    "arti": "makan",
+    "kategori": "kata kerja (ichidan)",
+    "bentuk": [
+      {"form": "て-form", "kana": "たべて", "arti": "makan (sambung)"},
+      {"form": "past", "kana": "たべた", "arti": "telah makan"},
+      {"form": "negative", "kana": "たべない", "arti": "tidak makan"}
+    ]
+  },
+  {
+    "kotoba": "飲む",
+    "kana": "のむ",
+    "arti": "minum",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {"form": "ながら-form", "kana": "のみながら", "arti": "sambil minum"},
+      {"form": "て-form", "kana": "のんで", "arti": "minum (sambung)"}
+    ]
+  },
+  {
+    "kotoba": "行く",
+    "kana": "いく",
+    "arti": "pergi",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {"form": "pre-masu", "kana": "いき", "arti": "pergi (bentuk sambung)"},
+      {"form": "て-form", "kana": "いって", "arti": "pergi (sambung)"}
+    ]
+  },
+  {
+    "kotoba": "入る",
+    "kana": "はいる",
+    "arti": "masuk",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {"form": "て-form", "kana": "はいって", "arti": "masuk (sambung)"},
+      {"form": "masu-stem", "kana": "はいり", "arti": "masuk (bentuk sambung)"}
+    ]
+  },
+  {
+    "kotoba": "買う",
+    "kana": "かう",
+    "arti": "membeli",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {"form": "て-form", "kana": "かって", "arti": "membeli (sambung)"},
+      {"form": "past", "kana": "かった", "arti": "telah membeli"}
+    ]
+  },
+  {
+    "kotoba": "待つ",
+    "kana": "まつ",
+    "arti": "menunggu",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {"form": "て-form", "kana": "まって", "arti": "tunggu (sambung)"}
+    ]
+  },
+  {
+    "kotoba": "磨く",
+    "kana": "みがく",
+    "arti": "menggosok",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {"form": "て-form", "kana": "みがいて", "arti": "gosok (sambung)"}
+    ]
+  },
+  {
+    "kotoba": "弾く",
+    "kana": "ひく",
+    "arti": "memainkan (alat musik)",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {"form": "て-form", "kana": "ひいて", "arti": "mainkan (sambung)"}
+    ]
+  },
+  {
+    "kotoba": "覚える",
+    "kana": "おぼえる",
+    "arti": "mengingat",
+    "kategori": "kata kerja (ichidan)",
+    "bentuk": [
+      {"form": "て-form", "kana": "おぼえて", "arti": "ingat (sambung)"}
+    ]
+  },
+  {
+    "kotoba": "切る",
+    "kana": "きる",
+    "arti": "memotong",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {"form": "て-form", "kana": "きって", "arti": "potong (sambung)"}
+    ]
+  },
+  {
+    "kotoba": "小さい",
+    "kana": "ちいさい",
+    "arti": "kecil",
+    "kategori": "i-adjective",
+    "bentuk": [
+      {"form": "て-form", "kana": "ちいさくて", "arti": "kecil (sambung)"}
+    ]
+  },
+  {
+    "kotoba": "元気",
+    "kana": "げんき",
+    "arti": "sehat/bersemangat",
+    "kategori": "na-adjective/noun",
+    "bentuk": [
+      {"form": "て-form", "kana": "げんきで", "arti": "sehat (sambung)"}
+    ]
+  },
+  {
     "kotoba": "薬",
     "kana": "くすり",
     "arti": "obat",
     "kategori": "kata benda"
   },
   {
+    "kotoba": "毎朝",
+    "kana": "まいあさ",
+    "arti": "setiap pagi",
+    "kategori": "kata keterangan waktu"
+  },
+  {
+    "kotoba": "会社",
+    "kana": "かいしゃ",
+    "arti": "perusahaan",
+    "kategori": "kata benda"
+  },
+  {
     "kotoba": "ジョギング",
-    "kana": "ジョギング",
+    "kana": "じょぎんぐ",
     "arti": "jogging",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "売りました",
-    "kana": "うりました",
-    "arti": "menjual (bentuk sopan lampau)",
-    "kategori": "kata kerja"
+    "kotoba": "毎晩",
+    "kana": "まいばん",
+    "arti": "setiap malam",
+    "kategori": "kata keterangan waktu"
+  },
+  {
+    "kotoba": "お風呂",
+    "kana": "おふろ",
+    "arti": "bak mandi",
+    "kategori": "kata benda"
   },
   {
     "kotoba": "弟",
@@ -24,10 +156,10 @@
     "kategori": "kata benda"
   },
   {
-    "kotoba": "面白い",
-    "kana": "おもしろい",
-    "arti": "menarik/lucu",
-    "kategori": "kata sifat"
+    "kotoba": "学生",
+    "kana": "がくせい",
+    "arti": "pelajar/mahasiswa",
+    "kategori": "kata benda"
   },
   {
     "kotoba": "雪",
@@ -36,16 +168,22 @@
     "kategori": "kata benda"
   },
   {
-    "kotoba": "軽い",
-    "kana": "かるい",
-    "arti": "ringan",
-    "kategori": "kata sifat"
+    "kotoba": "雨",
+    "kana": "あめ",
+    "arti": "hujan",
+    "kategori": "kata benda"
   },
   {
-    "kotoba": "小さい",
-    "kana": "ちいさい",
-    "arti": "kecil",
-    "kategori": "kata sifat"
+    "kotoba": "母",
+    "kana": "はは",
+    "arti": "ibu (sendiri)",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "辞書",
+    "kana": "じしょ",
+    "arti": "kamus",
+    "kategori": "kata benda"
   },
   {
     "kotoba": "漢字",
@@ -54,34 +192,34 @@
     "kategori": "kata benda"
   },
   {
-    "kotoba": "覚えます",
-    "kana": "おぼえます",
-    "arti": "mengingat/menghafal",
-    "kategori": "kata kerja"
-  },
-  {
-    "kotoba": "磨く",
-    "kana": "みがく",
-    "arti": "menggosok/membersihkan",
-    "kategori": "kata kerja"
+    "kotoba": "パーティー",
+    "kana": "ぱーてぃー",
+    "arti": "pesta",
+    "kategori": "kata benda"
   },
   {
     "kotoba": "ギター",
-    "kana": "ギター",
+    "kana": "ぎたー",
     "arti": "gitar",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "弾く",
-    "kana": "ひく",
-    "arti": "memainkan (alat musik)",
-    "kategori": "kata kerja"
+    "kotoba": "言葉",
+    "kana": "ことば",
+    "arti": "kata",
+    "kategori": "kata benda"
   },
   {
     "kotoba": "大切",
     "kana": "たいせつ",
-    "arti": "penting/berharga",
-    "kategori": "kata sifat (na-adjective)"
+    "arti": "penting",
+    "kategori": "na-adjective"
+  },
+  {
+    "kotoba": "ケーキ",
+    "kana": "けーき",
+    "arti": "kue",
+    "kategori": "kata benda"
   },
   {
     "kotoba": "半分",
@@ -90,9 +228,39 @@
     "kategori": "kata benda"
   },
   {
-    "kotoba": "切る",
-    "kana": "きる",
-    "arti": "memotong",
-    "kategori": "kata kerja"
+    "kotoba": "ください",
+    "kana": "ください",
+    "arti": "tolong (permintaan)",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "から",
+    "kana": "から",
+    "arti": "setelah/karena",
+    "kategori": "partikel"
+  },
+  {
+    "kotoba": "前に",
+    "kana": "まえに",
+    "arti": "sebelum",
+    "kategori": "partikel waktu"
+  },
+  {
+    "kotoba": "で",
+    "kana": "で",
+    "arti": "sebagai (peran)/dengan",
+    "kategori": "partikel"
+  },
+  {
+    "kotoba": "くて",
+    "kana": "くて",
+    "arti": "dan (sambung i-adjective)",
+    "kategori": "partikel sambung"
+  },
+  {
+    "kotoba": "に",
+    "kana": "に",
+    "arti": "untuk (tujuan)",
+    "kategori": "partikel"
   }
 ]
