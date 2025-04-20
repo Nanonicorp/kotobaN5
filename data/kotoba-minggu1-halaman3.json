@@ -12,11 +12,6 @@
   {"kotoba": "いくつ", "kana": "いくつ", "arti": "berapa (untuk benda bisa dihitung)", "kategori": "kata tanya"},
   {"kotoba": "どちら", "kana": "どちら", "arti": "yang mana (lebih sopan)", "kategori": "kata tanya"},
 
-  {"kotoba": "を", "kana": "を", "arti": "partikel objek langsung", "kategori": "partikel", "contoh": "みかんを買いました"},
-  {"kotoba": "と", "kana": "と", "arti": "dengan (orang)", "kategori": "partikel", "contoh": "だれと見ましたか"},
-  {"kotoba": "で", "kana": "で", "arti": "dengan (alat/tempat)/seharga", "kategori": "partikel", "contoh": "5本で300円です"},
-  {"kotoba": "や", "kana": "や", "arti": "dan (untuk menyebut contoh)", "kategori": "partikel", "contoh": "ナイフやフォーク"},
-
   {"kotoba": "みかん", "kana": "みかん", "arti": "jeruk", "kategori": "kata benda"},
   {"kotoba": "テスト", "kana": "てすと", "arti": "tes", "kategori": "kata benda"},
   {"kotoba": "おかし", "kana": "おかし", "arti": "kue/makanan ringan", "kategori": "kata benda"},
