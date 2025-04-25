@@ -33,14 +33,25 @@
     <section id="vocabulary" class="vocabulary">
         <div class="container">
             <h2 class="section-title">Daftar Kosakata JLPT N5</h2>
+
+            <div class="vocab-tips fade-in" style="margin-bottom: 30px; background: #f9f9f9; padding: 20px; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
+    <h3 style="margin-top: 0;">Tutorial Menghafal Kotoba di Website Nanoni:</h3>
+    <ul style="line-height: 1.6;">
+        <li><strong>Atur tampilan jadi 10 kata per halaman</strong> agar fokus lebih mudah.</li>
+        <li><strong>Perhatikan kolom "Kana"</strong> untuk cara baca, dan kolom "Arti" untuk maknanya.</li>
+        <li><strong>Baca berulang kali</strong> hingga mulai hafal.</li>
+        <li>Setelah itu<strong>, sembunyikan kolom "Kana" dan "Arti"</strong>, lalu baca kata-kata dari atas.
+Jika ada yang lupa cara bacanya atau artinya, buka kembali kolom tersebut. Kalau sudah hafal, tutup lagi.</li>
+        <li><strong>Ulangi langkah ini terus</strong> sampai semua kata di halaman itu hafal.</li>
+        <li><strong>Lanjut ke halaman berikutnya</strong> sampai hafal semua kotoba</li>
+    </ul>
+</div>
             
             <div class="controls fade-in">
-                <!-- Search Input -->
                 <div class="search-group" style="display: none;">
-    <input type="text" id="searchInput" placeholder="Cari kotoba/kana...">
-</div>
-                
-                <!-- Dropdown Filter -->
+                    <input type="text" id="searchInput" placeholder="Cari kotoba/kana...">
+                </div>
+
                 <div class="filter-group">
                     <span>Minggu:</span>
                     <select id="weekSelector">
@@ -53,17 +64,17 @@
                     <span>Hari:</span>
                     <select id="daySelector">
                         <option value="1">1</option>
-                         <option value="2">2</option>
+                        <option value="2">2</option>
                         <option value="3">3</option>
+                        <option value="4">4</option>
                     </select>
                 </div>
 
-                <!-- Dropdown Items per Page -->
                 <div class="items-per-page">
                     <span>Tampilkan per halaman:</span>
                     <select id="itemsPerPage">
-                        <option value="10">10</option>
-                        <option value="20" selected>20</option>
+                        <option value="10" selected>10</option>
+                        <option value="20">20</option>
                         <option value="50">50</option>
                         <option value="100">100</option>
                     </select>
@@ -74,32 +85,32 @@
 
             <div class="table-container fade-in">
                 <div class="table-wrapper">
-                <table id="vocabularyTable">
-                    <thead>
-                        <tr>
-                            <th class="col-no">No</th>
-                            <th class="col-kotoba">
-                                <i class="fas fa-eye column-toggle" data-column="kotoba" title="Sembunyikan kolom"></i>
-                                Kotoba                                 
-                            </th>
-                            <th class="col-kana">
-                                <i class="fas fa-eye column-toggle" data-column="kana" title="Sembunyikan kolom"></i>
-                                Kana 
-                            </th>
-                            <th class="col-arti">
-                                <i class="fas fa-eye column-toggle" data-column="arti" title="Sembunyikan kolom"></i>
-                                Arti 
-                            </th>
-                            <th class="col-action">Aksi</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <!-- Data akan diisi oleh JavaScript -->
-                    </tbody>
-                </table>
+                    <table id="vocabularyTable">
+                        <thead>
+                            <tr>
+                                <th class="col-kotoba">
+                                    Kotoba
+                                    <i class="fas fa-eye column-toggle" data-column="kotoba" title="Sembunyikan kolom"></i>                                    
+                                </th>
+                                <th class="col-kana">
+                                    Kana
+                                    <i class="fas fa-eye column-toggle" data-column="kana" title="Sembunyikan kolom"></i>                                    
+                                </th>
+                                <th class="col-arti">
+                                    Arti
+                                    <i class="fas fa-eye column-toggle" data-column="arti" title="Sembunyikan kolom"></i>                                    
+                                </th>
+                                <th class="col-info">Info</th>
+                                <th class="col-action">Aksi</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Diisi oleh JavaScript -->
+                        </tbody>
+                    </table>
                 </div>
             </div>
-            
+
             <div class="pagination-container">
                 <div class="pagination-controls">
                     <button id="prevPage" disabled><i class="fas fa-chevron-left"></i> Sebelumnya</button>
@@ -109,6 +120,15 @@
             </div>
         </div>
     </section>
+
+    <!-- Modal Popup -->
+    <div id="popupModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <h3>Contoh Penggunaan</h3>
+            <p id="popupText">Loading...</p>
+        </div>
+    </div>
 
     <!-- Footer -->
     <footer>
