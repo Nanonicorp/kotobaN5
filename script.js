@@ -1,5 +1,5 @@
+
 document.addEventListener('DOMContentLoaded', function () {
-    // Variabel global
     let vocabularyData = [];
     let filteredData = [];
     let currentWeek = 1;
@@ -8,7 +8,6 @@ document.addEventListener('DOMContentLoaded', function () {
     let itemsPerPage = 10;
     let totalPages = 1;
 
-    // Elemen UI
     const weekSelector = document.getElementById('weekSelector');
     const daySelector = document.getElementById('daySelector');
     const itemsPerPageSelect = document.getElementById('itemsPerPage');
@@ -20,8 +19,12 @@ document.addEventListener('DOMContentLoaded', function () {
     const burger = document.getElementById('burger');
     const navLinks = document.querySelector('.nav-links');
 
-    // Inisialisasi
+    const popupModal = document.getElementById("popupModal");
+    const popupText = document.getElementById("popupText");
+    const closeBtn = document.querySelector(".close-btn");
+
     initEventListeners();
+    setupColumnToggles();
     loadVocabularyData();
 
     async function loadVocabularyData() {
@@ -29,17 +32,12 @@ document.addEventListener('DOMContentLoaded', function () {
             errorMessage.style.display = 'none';
             const filename = `data/kotoba-minggu${currentWeek}-halaman${currentDay}.json`;
             const response = await fetch(filename);
-
             if (!response.ok) {
                 throw new Error(`Data tidak ditemukan untuk Minggu ${currentWeek} Hari ${currentDay}`);
             }
 
             vocabularyData = await response.json();
             filteredData = [...vocabularyData];
-
-            const cacheKey = `week${currentWeek}day${currentDay}`;
-            localStorage.setItem(cacheKey, JSON.stringify(vocabularyData));
-
             searchInput.value = '';
             currentPage = 1;
             updatePagination();
@@ -60,37 +58,37 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         const paginatedData = getPaginatedData();
-
         paginatedData.forEach((item, index) => {
             const globalIndex = (currentPage - 1) * itemsPerPage + index + 1;
             const row = document.createElement('tr');
             row.innerHTML = `
-                <td>${globalIndex}</td>
-                <td>${item.kotoba || '-'}</td>
-                <td>${item.kana || '-'}</td>
-                <td>${item.arti || '-'}</td>
-                <td><i class="fas fa-eye action-btn" title="Sembunyikan kolom baris ini"></i></td>
-            `;
+    <td>${item.kotoba || '-'}</td>
+    <td>${item.kana || '-'}</td>
+    <td>${item.arti || '-'}</td>
+    <td>
+        <i class="fas fa-info-circle info-btn" title="Lihat contoh" data-contoh="${item.contoh || ''}"></i>
+    </td>
+    <td>
+        <i class="fas fa-eye action-btn" title="Sembunyikan kolom baris ini"></i>
+    </td>
+`;
             tbody.appendChild(row);
 
-            // Tambahkan event listener ke ikon aksi
+            // Event listener untuk tombol blur
             row.querySelector('.action-btn').addEventListener('click', (e) => {
                 const targetRow = e.target.closest('tr');
                 const cells = targetRow.querySelectorAll('td');
-
-                // Blur kolom kotoba, kana, arti (kolom 1, 2, 3)
-                [1, 2, 3].forEach(i => {
-                    cells[i].classList.toggle('blurred');
-                });
-
-                // Toggle ikon mata
+                [0, 1, 2].forEach(i => cells[i].classList.toggle('blurred'));
                 e.target.classList.toggle('fa-eye');
                 e.target.classList.toggle('fa-eye-slash');
             });
-        });
 
-        // Atur kembali toggle ikon kolom setelah render
-        setupColumnToggles();
+            // Event listener untuk tombol info
+            row.querySelector('.info-btn').addEventListener('click', (e) => {
+                const contohKalimat = e.target.dataset.contoh;
+                showPopup(contohKalimat || "Belum ada contoh kalimat.");
+            });
+        });
     }
 
     function getPaginatedData() {
@@ -139,9 +137,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function getColumnIndex(columnName) {
         const columns = {
-            'kotoba': 2,
-            'kana': 3,
-            'arti': 4
+            'kotoba': 1,
+            'kana': 2,
+            'arti': 3
         };
         return columns[columnName] || 0;
     }
@@ -151,6 +149,31 @@ document.addEventListener('DOMContentLoaded', function () {
         errorMessage.style.display = 'block';
         document.querySelector('#vocabularyTable tbody').innerHTML = '';
     }
+
+    function showPopup(text) {
+    popupText.innerHTML = formatInfo(text); // pakai innerHTML agar HTML dirender
+    popupModal.style.display = "block";
+}
+
+    function formatInfo(text) {
+    // Ubah **teks** menjadi <strong>teks</strong>
+    let formatted = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+
+    // Ubah \n menjadi <br> untuk baris baru
+    formatted = formatted.replace(/\n/g, '<br>');
+
+    return formatted;
+}
+
+    closeBtn.addEventListener("click", () => {
+        popupModal.style.display = "none";
+    });
+
+    window.addEventListener("click", (e) => {
+        if (e.target === popupModal) {
+            popupModal.style.display = "none";
+        }
+    });
 
     function initEventListeners() {
         weekSelector.addEventListener('change', () => {
