@@ -1,4 +1,3 @@
-/* Global Styles */
 :root {
     --primary: #E74C3C;
     --secondary: #3498DB;
@@ -27,13 +26,12 @@ body {
 }
 
 .container {
-    width: 90%;
+    width: 65%;
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px 0;
 }
 
-/* Header & Navigation */
 header {
     background-color: white;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
@@ -79,7 +77,6 @@ nav {
     color: var(--primary);
 }
 
-/* Burger Menu */
 .burger {
     display: none;
     flex-direction: column;
@@ -94,7 +91,6 @@ nav {
     transition: all 0.3s ease;
 }
 
-/* Vocabulary Section */
 .vocabulary {
     padding: 150px 0 50px;
     background-color: white;
@@ -129,7 +125,8 @@ nav {
     font-size: 16px;
 }
 
-.filter-group, .items-per-page {
+.filter-group,
+.items-per-page {
     display: flex;
     align-items: center;
     gap: 10px;
@@ -163,7 +160,6 @@ button:disabled {
     cursor: not-allowed;
 }
 
-/* Error Message */
 .error-message {
     color: var(--error);
     padding: 10px;
@@ -172,7 +168,6 @@ button:disabled {
     display: none;
 }
 
-/* Table Styles */
 .table-wrapper {
     overflow-x: auto;
     width: 100%;
@@ -189,7 +184,8 @@ table {
     margin-bottom: 30px;
 }
 
-th, td {
+th,
+td {
     padding: 15px;
     text-align: left;
     border-bottom: 1px solid #ddd;
@@ -230,14 +226,29 @@ tr:hover {
     transition: text-shadow 0.3s ease;
 }
 
-/* Column Widths */
-.col-no { width: 50px; }
+/* Kolom Baru: Info */
+.col-info {
+    width: 60px;
+    text-align: center;
+}
+
+.info-btn {
+    cursor: pointer;
+    color: var(--accent);
+    transition: color 0.3s;
+}
+
+.info-btn:hover {
+    color: var(--primary);
+}
+
+.col-no { width: 47px; }
 .col-kotoba { width: 25%; }
 .col-kana { width: 30%; }
 .col-arti { width: 35%; }
-.col-action { width: 55px; }
+.col-info { width: 65px; }
+.col-action { width: 65px; }
 
-/* Pagination Styles */
 .pagination-container {
     display: flex;
     justify-content: center;
@@ -253,6 +264,38 @@ tr:hover {
 
 .pagination-info {
     font-weight: 500;
+}
+
+/* Modal Styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 2000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.modal-content {
+    background-color: #fff;
+    margin: 10% auto;
+    padding: 20px;
+    border-radius: 8px;
+    width: 80%;
+    max-width: 500px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+.close-btn {
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    color: var(--primary);
 }
 
 /* Footer */
@@ -299,12 +342,12 @@ footer {
     color: var(--accent);
 }
 
-.copyright {
+copyright {
     font-size: 14px;
     opacity: 0.8;
 }
 
-/* Animations */
+/* Animasi */
 @keyframes fadeIn {
     from { opacity: 0; transform: translateY(20px); }
     to { opacity: 1; transform: translateY(0); }
@@ -350,13 +393,18 @@ footer {
         justify-content: space-between;
     }
 
-    /* Adjust table for mobile */
+    .container {
+    width: 100%;
+    max-width: 100% !important;
+    padding: 10px 15px;
+}
+
     th, td {
         padding: 10px 8px;
         font-size: 14px;
     }
 
-    .col-no, .col-action {
+    .col-no, .col-action, .col-info {
         min-width: 40px;
         max-width: 55px;
         text-align: center;
@@ -367,15 +415,8 @@ footer {
         width: auto;
     }
 
-    /* Allow text wrapping in cells */
     #vocabularyTable td {
         white-space: normal;
-    }
-}
-
-@media (max-width: 480px) {
-    .section-title {
-        font-size: 28px;
     }
 
     .pagination-controls {
