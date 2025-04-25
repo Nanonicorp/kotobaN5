@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let currentWeek = 1;
     let currentDay = 1;
     let currentPage = 1;
-    let itemsPerPage = 20;
+    let itemsPerPage = 10;
     let totalPages = 1;
 
     // Elemen UI
