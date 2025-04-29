@@ -1,34 +1,180 @@
 [
-  {"kotoba": "寒い", "kana": "さむい", "arti": "dingin", "kategori": "kata sifat (i-adjective)", "bentuk": ["さむいです (present)", "さむかったです (past)"]},
-  {"kotoba": "おいしい", "kana": "おいしい", "arti": "enak", "kategori": "kata sifat (i-adjective)", "bentuk": ["おいしくないです (negatif present)"]},
-  {"kotoba": "重い", "kana": "おもい", "arti": "berat", "kategori": "kata sifat (i-adjective)", "bentuk": ["おもかったです (past)"]},
-  {"kotoba": "難しい", "kana": "むずかしい", "arti": "sulit", "kategori": "kata sifat (i-adjective)", "bentuk": ["むずかしくないです (negatif)"]},
-  {"kotoba": "有名", "kana": "ゆうめい", "arti": "terkenal", "kategori": "kata sifat (na-adjective)", "bentuk": ["ではありません (negatif formal)"]},
-
-  {"kotoba": "どこ", "kana": "どこ", "arti": "di mana", "kategori": "kata tanya"},
-  {"kotoba": "どんな", "kana": "どんな", "arti": "seperti apa", "kategori": "kata tanya"},
-  {"kotoba": "どの", "kana": "どの", "arti": "yang mana (diikuti kata benda)", "kategori": "kata tanya"},
-  {"kotoba": "どれ", "kana": "どれ", "arti": "yang mana (benda)", "kategori": "kata tanya"},
-  {"kotoba": "いくつ", "kana": "いくつ", "arti": "berapa (untuk benda bisa dihitung)", "kategori": "kata tanya"},
-  {"kotoba": "どちら", "kana": "どちら", "arti": "yang mana (lebih sopan)", "kategori": "kata tanya"},
-
-  {"kotoba": "みかん", "kana": "みかん", "arti": "jeruk", "kategori": "kata benda"},
-  {"kotoba": "テスト", "kana": "てすと", "arti": "tes", "kategori": "kata benda"},
-  {"kotoba": "おかし", "kana": "おかし", "arti": "kue/makanan ringan", "kategori": "kata benda"},
-  {"kotoba": "かばん", "kana": "かばん", "arti": "tas", "kategori": "kata benda"},
-  {"kotoba": "ばんごはん", "kana": "ばんごはん", "arti": "makan malam", "kategori": "kata benda"},
-  {"kotoba": "スポーツ", "kana": "すぽーつ", "arti": "olahraga", "kategori": "kata benda"},
-  {"kotoba": "トイレ", "kana": "といれ", "arti": "toilet", "kategori": "kata benda"},
-  {"kotoba": "コーヒー", "kana": "こーひー", "arti": "kopi", "kategori": "kata benda"},
-  {"kotoba": "ペン", "kana": "ぺん", "arti": "pulpen", "kategori": "kata benda"},
-  {"kotoba": "テーブル", "kana": "てーぶる", "arti": "meja", "kategori": "kata benda"},
-  {"kotoba": "ナイフ", "kana": "ないふ", "arti": "pisau", "kategori": "kata benda"},
-  {"kotoba": "フォーク", "kana": "ふぉーく", "arti": "garpu", "kategori": "kata benda"},
-
-  {"kotoba": "買いました", "kana": "かいました", "arti": "membeli (lampau)", "kategori": "kata kerja"},
-  {"kotoba": "見ました", "kana": "みました", "arti": "menonton/melihat (lampau)", "kategori": "kata kerja"},
-  {"kotoba": "食べます", "kana": "たべます", "arti": "makan", "kategori": "kata kerja"},
-
-  {"kotoba": "ください", "kana": "ください", "arti": "tolong berikan", "kategori": "ungkapan"},
-  {"kotoba": "すみません", "kana": "すみません", "arti": "maaf/permisi", "kategori": "ungkapan"}
+  {
+    "kotoba": "寒い",
+    "kana": "さむい",
+    "arti": "dingin",
+    "kategori": "kata sifat (i-adjective)",
+    "bentuk": [
+      "さむいです (present)",
+      "さむかったです (past)"
+    ]
+  },
+  {
+    "kotoba": "おいしい",
+    "kana": "おいしい",
+    "arti": "enak",
+    "kategori": "kata sifat (i-adjective)",
+    "bentuk": [
+      "おいしくないです (negatif present)"
+    ]
+  },
+  {
+    "kotoba": "重い",
+    "kana": "おもい",
+    "arti": "berat",
+    "kategori": "kata sifat (i-adjective)",
+    "bentuk": [
+      "おもかったです (past)"
+    ]
+  },
+  {
+    "kotoba": "難しい",
+    "kana": "むずかしい",
+    "arti": "sulit",
+    "kategori": "kata sifat (i-adjective)",
+    "bentuk": [
+      "むずかしくないです (negatif)"
+    ]
+  },
+  {
+    "kotoba": "有名",
+    "kana": "ゆうめい",
+    "arti": "terkenal",
+    "kategori": "kata sifat (na-adjective)",
+    "bentuk": [
+      "ではありません (negatif formal)"
+    ]
+  },
+  {
+    "kotoba": "どこ",
+    "kana": "どこ",
+    "arti": "di mana",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "どんな",
+    "kana": "どんな",
+    "arti": "seperti apa",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "どの",
+    "kana": "どの",
+    "arti": "yang mana (diikuti kata benda)",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "どれ",
+    "kana": "どれ",
+    "arti": "yang mana (benda)",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "いくつ",
+    "kana": "いくつ",
+    "arti": "berapa (untuk benda bisa dihitung)",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "どちら",
+    "kana": "どちら",
+    "arti": "yang mana (lebih sopan)",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "みかん",
+    "kana": "みかん",
+    "arti": "jeruk",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "テスト",
+    "kana": "てすと",
+    "arti": "tes",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "おかし",
+    "kana": "おかし",
+    "arti": "kue/makanan ringan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "かばん",
+    "kana": "かばん",
+    "arti": "tas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ばんごはん",
+    "kana": "ばんごはん",
+    "arti": "makan malam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "スポーツ",
+    "kana": "すぽーつ",
+    "arti": "olahraga",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "トイレ",
+    "kana": "といれ",
+    "arti": "toilet",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "コーヒー",
+    "kana": "こーひー",
+    "arti": "kopi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ペン",
+    "kana": "ぺん",
+    "arti": "pulpen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "テーブル",
+    "kana": "てーぶる",
+    "arti": "meja",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ナイフ",
+    "kana": "ないふ",
+    "arti": "pisau",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "フォーク",
+    "kana": "ふぉーく",
+    "arti": "garpu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "買いました",
+    "kana": "かいました",
+    "arti": "membeli (lampau)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "見ました",
+    "kana": "みました",
+    "arti": "menonton/melihat (lampau)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "食べます",
+    "kana": "たべます",
+    "arti": "makan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ください",
+    "kana": "ください",
+    "arti": "tolong berikan",
+    "kategori": "ungkapan"
+  }
 ]

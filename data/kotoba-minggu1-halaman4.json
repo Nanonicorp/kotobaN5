@@ -5,9 +5,21 @@
     "arti": "makan",
     "kategori": "kata kerja (ichidan)",
     "bentuk": [
-      {"form": "て-form", "kana": "たべて", "arti": "makan (sambung)"},
-      {"form": "past", "kana": "たべた", "arti": "telah makan"},
-      {"form": "negative", "kana": "たべない", "arti": "tidak makan"}
+      {
+        "form": "て-form",
+        "kana": "たべて",
+        "arti": "makan (sambung)"
+      },
+      {
+        "form": "past",
+        "kana": "たべた",
+        "arti": "telah makan"
+      },
+      {
+        "form": "negative",
+        "kana": "たべない",
+        "arti": "tidak makan"
+      }
     ]
   },
   {
@@ -16,8 +28,16 @@
     "arti": "minum",
     "kategori": "kata kerja (godan)",
     "bentuk": [
-      {"form": "ながら-form", "kana": "のみながら", "arti": "sambil minum"},
-      {"form": "て-form", "kana": "のんで", "arti": "minum (sambung)"}
+      {
+        "form": "ながら-form",
+        "kana": "のみながら",
+        "arti": "sambil minum"
+      },
+      {
+        "form": "て-form",
+        "kana": "のんで",
+        "arti": "minum (sambung)"
+      }
     ]
   },
   {
@@ -26,8 +46,16 @@
     "arti": "pergi",
     "kategori": "kata kerja (godan)",
     "bentuk": [
-      {"form": "pre-masu", "kana": "いき", "arti": "pergi (bentuk sambung)"},
-      {"form": "て-form", "kana": "いって", "arti": "pergi (sambung)"}
+      {
+        "form": "pre-masu",
+        "kana": "いき",
+        "arti": "pergi (bentuk sambung)"
+      },
+      {
+        "form": "て-form",
+        "kana": "いって",
+        "arti": "pergi (sambung)"
+      }
     ]
   },
   {
@@ -36,8 +64,16 @@
     "arti": "masuk",
     "kategori": "kata kerja (godan)",
     "bentuk": [
-      {"form": "て-form", "kana": "はいって", "arti": "masuk (sambung)"},
-      {"form": "masu-stem", "kana": "はいり", "arti": "masuk (bentuk sambung)"}
+      {
+        "form": "て-form",
+        "kana": "はいって",
+        "arti": "masuk (sambung)"
+      },
+      {
+        "form": "masu-stem",
+        "kana": "はいり",
+        "arti": "masuk (bentuk sambung)"
+      }
     ]
   },
   {
@@ -46,8 +82,16 @@
     "arti": "membeli",
     "kategori": "kata kerja (godan)",
     "bentuk": [
-      {"form": "て-form", "kana": "かって", "arti": "membeli (sambung)"},
-      {"form": "past", "kana": "かった", "arti": "telah membeli"}
+      {
+        "form": "て-form",
+        "kana": "かって",
+        "arti": "membeli (sambung)"
+      },
+      {
+        "form": "past",
+        "kana": "かった",
+        "arti": "telah membeli"
+      }
     ]
   },
   {
@@ -56,7 +100,11 @@
     "arti": "menunggu",
     "kategori": "kata kerja (godan)",
     "bentuk": [
-      {"form": "て-form", "kana": "まって", "arti": "tunggu (sambung)"}
+      {
+        "form": "て-form",
+        "kana": "まって",
+        "arti": "tunggu (sambung)"
+      }
     ]
   },
   {
@@ -65,7 +113,11 @@
     "arti": "menggosok",
     "kategori": "kata kerja (godan)",
     "bentuk": [
-      {"form": "て-form", "kana": "みがいて", "arti": "gosok (sambung)"}
+      {
+        "form": "て-form",
+        "kana": "みがいて",
+        "arti": "gosok (sambung)"
+      }
     ]
   },
   {
@@ -74,7 +126,11 @@
     "arti": "memainkan (alat musik)",
     "kategori": "kata kerja (godan)",
     "bentuk": [
-      {"form": "て-form", "kana": "ひいて", "arti": "mainkan (sambung)"}
+      {
+        "form": "て-form",
+        "kana": "ひいて",
+        "arti": "mainkan (sambung)"
+      }
     ]
   },
   {
@@ -83,7 +139,11 @@
     "arti": "mengingat",
     "kategori": "kata kerja (ichidan)",
     "bentuk": [
-      {"form": "て-form", "kana": "おぼえて", "arti": "ingat (sambung)"}
+      {
+        "form": "て-form",
+        "kana": "おぼえて",
+        "arti": "ingat (sambung)"
+      }
     ]
   },
   {
@@ -92,7 +152,11 @@
     "arti": "memotong",
     "kategori": "kata kerja (godan)",
     "bentuk": [
-      {"form": "て-form", "kana": "きって", "arti": "potong (sambung)"}
+      {
+        "form": "て-form",
+        "kana": "きって",
+        "arti": "potong (sambung)"
+      }
     ]
   },
   {
@@ -101,7 +165,11 @@
     "arti": "kecil",
     "kategori": "i-adjective",
     "bentuk": [
-      {"form": "て-form", "kana": "ちいさくて", "arti": "kecil (sambung)"}
+      {
+        "form": "て-form",
+        "kana": "ちいさくて",
+        "arti": "kecil (sambung)"
+      }
     ]
   },
   {
@@ -110,7 +178,11 @@
     "arti": "sehat/bersemangat",
     "kategori": "na-adjective/noun",
     "bentuk": [
-      {"form": "て-form", "kana": "げんきで", "arti": "sehat (sambung)"}
+      {
+        "form": "て-form",
+        "kana": "げんきで",
+        "arti": "sehat (sambung)"
+      }
     ]
   },
   {
@@ -118,12 +190,6 @@
     "kana": "くすり",
     "arti": "obat",
     "kategori": "kata benda"
-  },
-  {
-    "kotoba": "毎朝",
-    "kana": "まいあさ",
-    "arti": "setiap pagi",
-    "kategori": "kata keterangan waktu"
   },
   {
     "kotoba": "会社",
@@ -165,18 +231,6 @@
     "kotoba": "雪",
     "kana": "ゆき",
     "arti": "salju",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "雨",
-    "kana": "あめ",
-    "arti": "hujan",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "母",
-    "kana": "はは",
-    "arti": "ibu (sendiri)",
     "kategori": "kata benda"
   },
   {
@@ -226,12 +280,6 @@
     "kana": "はんぶん",
     "arti": "setengah",
     "kategori": "kata benda"
-  },
-  {
-    "kotoba": "ください",
-    "kana": "ください",
-    "arti": "tolong (permintaan)",
-    "kategori": "ungkapan"
   },
   {
     "kotoba": "から",

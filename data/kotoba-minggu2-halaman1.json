@@ -1,60 +1,248 @@
 [
-  {"kotoba": "明日", "kana": "あした", "arti": "besok", "kategori": "kata benda"},
-  {"kotoba": "朝", "kana": "あさ", "arti": "pagi", "kategori": "kata benda"},
-  {"kotoba": "私", "kana": "わたし", "arti": "saya", "kategori": "kata benda"},
-  {"kotoba": "会社", "kana": "かいしゃ", "arti": "perusahaan", "kategori": "kata benda"},
-  {"kotoba": "もっと", "kana": "もっと", "arti": "lebih", "kategori": "kata keterangan"},
-  {"kotoba": "広い", "kana": "ひろい", "arti": "luas", "kategori": "kata sifat"},
-  {"kotoba": "部屋", "kana": "へや", "arti": "ruangan", "kategori": "kata benda"},
-  {"kotoba": "欲しい", "kana": "ほしい", "arti": "ingin", "kategori": "kata sifat"},
-  {"kotoba": "お酒", "kana": "おさけ", "arti": "alkohol", "kategori": "kata benda"},
-  {"kotoba": "飲む", "kana": "のむ", "arti": "minum", "kategori": "kata kerja"},
-  {"kotoba": "顔", "kana": "かお", "arti": "wajah", "kategori": "kata benda"},
-  {"kotoba": "赤い", "kana": "あかい", "arti": "merah", "kategori": "kata sifat"},
-  {"kotoba": "なる", "kana": "なる", "arti": "menjadi", "kategori": "kata kerja"},
-  {"kotoba": "勉強する", "kana": "べんきょうする", "arti": "belajar", "kategori": "kata kerja"},
-  {"kotoba": "時間", "kana": "じかん", "arti": "waktu", "kategori": "kata benda"},
-  {"kotoba": "困る", "kana": "こまる", "arti": "kesulitan", "kategori": "kata kerja"},
-  {"kotoba": "近く", "kana": "ちかく", "arti": "dekat", "kategori": "kata keterangan"},
-  {"kotoba": "駅", "kana": "えき", "arti": "stasiun", "kategori": "kata benda"},
-  {"kotoba": "歩く", "kana": "あるく", "arti": "berjalan", "kategori": "kata kerja"},
-  {"kotoba": "分", "kana": "ふん", "arti": "menit", "kategori": "kata benda"},
-  {"kotoba": "駅", "kana": "えき", "arti": "stasiun", "kategori": "kata benda"},
-  {"kotoba": "前", "kana": "まえ", "arti": "depan", "kategori": "kata benda"},
-  {"kotoba": "たくさん", "kana": "たくさん", "arti": "banyak", "kategori": "kata keterangan"},
-  {"kotoba": "銀行", "kana": "ぎんこう", "arti": "bank", "kategori": "kata benda"},
-  {"kotoba": "ある", "kana": "ある", "arti": "ada (untuk benda mati)", "kategori": "kata kerja"},
-  {"kotoba": "何時", "kana": "なんじ", "arti": "jam berapa", "kategori": "kata benda"},
-  {"kotoba": "10時", "kana": "じゅうじ", "arti": "jam 10", "kategori": "kata benda"},
-  {"kotoba": "半", "kana": "はん", "arti": "setengah", "kategori": "kata benda"},
-  {"kotoba": "今週", "kana": "こんしゅう", "arti": "minggu ini", "kategori": "kata benda"},
-  {"kotoba": "安い", "kana": "やすい", "arti": "murah", "kategori": "kata sifat"},
-  {"kotoba": "ない", "kana": "ない", "arti": "tidak (negatif)", "kategori": "kata sifat"},
-  {"kotoba": "いい", "kana": "いい", "arti": "baik", "kategori": "kata sifat"},
-  {"kotoba": "テレビ", "kana": "テレビ", "arti": "televisi", "kategori": "kata benda"},
-  {"kotoba": "母", "kana": "はは", "arti": "ibu", "kategori": "kata benda"},
-  {"kotoba": "今", "kana": "いま", "arti": "sekarang", "kategori": "kata keterangan"},
-  {"kotoba": "いる", "kana": "いる", "arti": "ada (untuk makhluk hidup)", "kategori": "kata kerja"},
-  {"kotoba": "部屋", "kana": "へや", "arti": "ruangan", "kategori": "kata benda"},
-  {"kotoba": "きれいに", "kana": "きれいに", "arti": "dengan bersih", "kategori": "kata keterangan"},
-  {"kotoba": "掃除する", "kana": "そうじする", "arti": "membersihkan", "kategori": "kata kerja"},
-  {"kotoba": "ヒーター", "kana": "ヒーター", "arti": "pemanas", "kategori": "kata benda"},
-  {"kotoba": "つける", "kana": "つける", "arti": "menyalakan", "kategori": "kata kerja"},
-  {"kotoba": "部屋", "kana": "へや", "arti": "ruangan", "kategori": "kata benda"},
-  {"kotoba": "きれいに", "kana": "きれいに", "arti": "dengan bersih", "kategori": "kata keterangan"},
-  {"kotoba": "する", "kana": "する", "arti": "melakukan", "kategori": "kata kerja"},
-  {"kotoba": "子どもたち", "kana": "こどもたち", "arti": "anak-anak", "kategori": "kata benda"},
-  {"kotoba": "元気に", "kana": "げんきに", "arti": "dengan ceria", "kategori": "kata keterangan"},
-  {"kotoba": "話す", "kana": "はなす", "arti": "berbicara", "kategori": "kata kerja"},
-  {"kotoba": "いる", "kana": "いる", "arti": "sedang (untuk makhluk hidup)", "kategori": "kata kerja"},
-  {"kotoba": "にぎやかな", "kana": "にぎやかな", "arti": "ramai", "kategori": "kata sifat"},
-  {"kotoba": "肉", "kana": "にく", "arti": "daging", "kategori": "kata benda"},
-  {"kotoba": "切る", "kana": "きる", "arti": "memotong", "kategori": "kata kerja"},
-  {"kotoba": "薄い", "kana": "うすい", "arti": "tipis", "kategori": "kata sifat"},
-  {"kotoba": "晩ご飯", "kana": "ばんごはん", "arti": "makan malam", "kategori": "kata benda"},
-  {"kotoba": "時間", "kana": "じかん", "arti": "waktu", "kategori": "kata benda"},
-  {"kotoba": "もっと", "kana": "もっと", "arti": "lebih", "kategori": "kata keterangan"},
-  {"kotoba": "遅い", "kana": "おそい", "arti": "terlambat", "kategori": "kata sifat"},
-  {"kotoba": "する", "kana": "しませんか", "arti": "tidak melakukan (ajakan)", "kategori": "kata kerja"}
-
-  ]
+  {
+    "kotoba": "明日",
+    "kana": "あした",
+    "arti": "besok",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "朝",
+    "kana": "あさ",
+    "arti": "pagi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "私",
+    "kana": "わたし",
+    "arti": "saya",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "もっと",
+    "kana": "もっと",
+    "arti": "lebih",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "広い",
+    "kana": "ひろい",
+    "arti": "luas",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "部屋",
+    "kana": "へや",
+    "arti": "ruangan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "欲しい",
+    "kana": "ほしい",
+    "arti": "ingin",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "お酒",
+    "kana": "おさけ",
+    "arti": "alkohol",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "顔",
+    "kana": "かお",
+    "arti": "wajah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "赤い",
+    "kana": "あかい",
+    "arti": "merah",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "なる",
+    "kana": "なる",
+    "arti": "menjadi",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "勉強する",
+    "kana": "べんきょうする",
+    "arti": "belajar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "困る",
+    "kana": "こまる",
+    "arti": "kesulitan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "近く",
+    "kana": "ちかく",
+    "arti": "dekat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "歩く",
+    "kana": "あるく",
+    "arti": "berjalan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "分",
+    "kana": "ふん",
+    "arti": "menit",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "前",
+    "kana": "まえ",
+    "arti": "depan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "たくさん",
+    "kana": "たくさん",
+    "arti": "banyak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "銀行",
+    "kana": "ぎんこう",
+    "arti": "bank",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ある",
+    "kana": "ある",
+    "arti": "ada (untuk benda mati)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "何時",
+    "kana": "なんじ",
+    "arti": "jam berapa",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "10時",
+    "kana": "じゅうじ",
+    "arti": "jam 10",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "半",
+    "kana": "はん",
+    "arti": "setengah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "今週",
+    "kana": "こんしゅう",
+    "arti": "minggu ini",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "安い",
+    "kana": "やすい",
+    "arti": "murah",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "ない",
+    "kana": "ない",
+    "arti": "tidak (negatif)",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "テレビ",
+    "kana": "テレビ",
+    "arti": "televisi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "いる",
+    "kana": "いる",
+    "arti": "ada (untuk makhluk hidup)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "きれいに",
+    "kana": "きれいに",
+    "arti": "dengan bersih",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "掃除する",
+    "kana": "そうじする",
+    "arti": "membersihkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ヒーター",
+    "kana": "ヒーター",
+    "arti": "pemanas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "つける",
+    "kana": "つける",
+    "arti": "menyalakan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "する",
+    "kana": "する",
+    "arti": "melakukan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "子どもたち",
+    "kana": "こどもたち",
+    "arti": "anak-anak",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "元気に",
+    "kana": "げんきに",
+    "arti": "dengan ceria",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "話す",
+    "kana": "はなす",
+    "arti": "berbicara",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "にぎやかな",
+    "kana": "にぎやかな",
+    "arti": "ramai",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "肉",
+    "kana": "にく",
+    "arti": "daging",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "薄い",
+    "kana": "うすい",
+    "arti": "tipis",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "晩ご飯",
+    "kana": "ばんごはん",
+    "arti": "makan malam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "遅い",
+    "kana": "おそい",
+    "arti": "terlambat",
+    "kategori": "kata sifat"
+  }
+]
