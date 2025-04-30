@@ -1,0 +1,188 @@
+[
+  {
+    "kotoba": "サンドイッチ",
+    "kana": "サンドイッチ",
+    "arti": "sandwich",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "子ども",
+    "kana": "こども",
+    "arti": "anak",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "寝る",
+    "kana": "ねる",
+    "arti": "tidur",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "大きい",
+    "kana": "おおきい",
+    "arti": "besar",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "声",
+    "kana": "こえ",
+    "arti": "suara",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "歌う",
+    "kana": "うたう",
+    "arti": "menyanyi",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "使う",
+    "kana": "つかう",
+    "arti": "menggunakan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "写真",
+    "kana": "しゃしん",
+    "arti": "foto",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "失くす",
+    "kana": "なくす",
+    "arti": "menghilangkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "机",
+    "kana": "つくえ",
+    "arti": "meja",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "上",
+    "kana": "うえ",
+    "arti": "atas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "鞄",
+    "kana": "かばん",
+    "arti": "tas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "置く",
+    "kana": "おく",
+    "arti": "meletakkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "お茶",
+    "kana": "おちゃ",
+    "arti": "teh",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "病院",
+    "kana": "びょういん",
+    "arti": "rumah sakit",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "友達",
+    "kana": "ともだち",
+    "arti": "teman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "会う",
+    "kana": "あう",
+    "arti": "bertemu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "山本",
+    "kana": "やまもと",
+    "arti": "Yamamoto (nama orang)",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ゴルフ",
+    "kana": "ごるふ",
+    "arti": "golf",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "テニス",
+    "kana": "てにす",
+    "arti": "tenis",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "車",
+    "kana": "くるま",
+    "arti": "mobil",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "うしろ",
+    "kana": "うしろ",
+    "arti": "belakang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "女の子",
+    "kana": "おんなのこ",
+    "arti": "anak perempuan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "にく",
+    "kana": "にく",
+    "arti": "daging",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "きる",
+    "kana": "きる",
+    "arti": "memotong",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "へや",
+    "kana": "へや",
+    "arti": "kamar",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "そうじ",
+    "kana": "そうじ",
+    "arti": "membersihkan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "きれい",
+    "kana": "きれい",
+    "arti": "rapi",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "あたたかい",
+    "kana": "あたたかい",
+    "arti": "hangat",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "うすい",
+    "kana": "うすい",
+    "arti": "tipis",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "晩ごはん",
+    "kana": "ばんごはん",
+    "arti": "makan malam",
+    "kategori": "kata benda"
+  }
+]
