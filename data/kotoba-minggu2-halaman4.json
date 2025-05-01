@@ -1,0 +1,182 @@
+[
+  {
+    "kotoba": "ごはん",
+    "kana": "ごはん",
+    "arti": "nasi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "食べました",
+    "kana": "たべました",
+    "arti": "makan (bentuk sopan)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ところ",
+    "kana": "ところ",
+    "arti": "tempat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "この",
+    "kana": "この",
+    "arti": "ini",
+    "kategori": "kata tunjuk"
+  },
+  {
+    "kotoba": "けさ",
+    "kana": "けさ",
+    "arti": "pagi ini",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "わたし",
+    "kana": "わたし",
+    "arti": "saya",
+    "kategori": "kata ganti"
+  },
+  {
+    "kotoba": "食べて",
+    "kana": "たべて",
+    "arti": "makan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "きょねん",
+    "kana": "きょねん",
+    "arti": "tahun lalu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "きょうと",
+    "kana": "きょうと",
+    "arti": "Kyoto",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "しゃしん",
+    "kana": "しゃしん",
+    "arti": "foto",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "いそがしい",
+    "kana": "いそがしい",
+    "arti": "sibuk",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "朝ごはん",
+    "kana": "あさごはん",
+    "arti": "sarapan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ありません",
+    "kana": "ありません",
+    "arti": "tidak ada",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "山口さん",
+    "kana": "やまぐちさん",
+    "arti": "Yamaguchi-san (Tuan/Nyonya Yamaguchi)",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "日",
+    "kana": "ひ",
+    "arti": "hari",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "木よう日",
+    "kana": "もくようび",
+    "arti": "hari Kamis",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "あした",
+    "kana": "あした",
+    "arti": "besok",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "休む",
+    "kana": "やすむ",
+    "arti": "libur; tidak masuk",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "人",
+    "kana": "ひと",
+    "arti": "orang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "だれ",
+    "kana": "だれ",
+    "arti": "siapa",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "いちばん",
+    "kana": "いちばん",
+    "arti": "paling",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "たいへんな",
+    "kana": "たいへんな",
+    "arti": "sulit; berat",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "しごと",
+    "kana": "しごと",
+    "arti": "pekerjaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "あね",
+    "kana": "あね",
+    "arti": "kakak perempuan (sendiri)",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "つくった",
+    "kana": "つくった",
+    "arti": "telah membuat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "来月",
+    "kana": "らいげつ",
+    "arti": "bulan depan",
+    "kategori": "kata keterangan waktu"
+  },
+  {
+    "kotoba": "これ",
+    "kana": "これ",
+    "arti": "ini",
+    "kategori": "kata tunjuk"
+  },
+  {
+    "kotoba": "先週",
+    "kana": "せんしゅう",
+    "arti": "minggu lalu",
+    "kategori": "kata keterangan waktu"
+  },
+  {
+    "kotoba": "買った",
+    "kana": "かった",
+    "arti": "membeli (bentuk lampau dari 買う)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "カメラ",
+    "kana": "かめら",
+    "arti": "kamera",
+    "kategori": "kata benda"
+  }
+]
