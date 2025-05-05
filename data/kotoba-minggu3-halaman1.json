@@ -1,0 +1,128 @@
+[
+  {
+    "kotoba": "立っている",
+    "kana": "たっている",
+    "arti": "sedang berdiri",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "田中さん",
+    "kana": "たなかさん",
+    "arti": "Tuan/Tn. Tanaka",
+    "kategori": "nama"
+  },
+  {
+    "kotoba": "六",
+    "kana": "ろく",
+    "arti": "enam",
+    "kategori": "angka"
+  },
+  {
+    "kotoba": "走る",
+    "kana": "はしる",
+    "arti": "berlari",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ないで",
+    "kana": "ないで",
+    "arti": "tanpa (bentuk larangan)",
+    "kategori": "bentuk kata kerja"
+  },
+  {
+    "kotoba": "空",
+    "kana": "そら",
+    "arti": "langit",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "西",
+    "kana": "にし",
+    "arti": "barat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "見て",
+    "kana": "みて",
+    "arti": "melihat (bentuk perintah)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "穴",
+    "kana": "あな",
+    "arti": "lubang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "室",
+    "kana": "しつ",
+    "arti": "ruangan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "突",
+    "kana": "つき",
+    "arti": "menyentuh, menusuk",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "夕方",
+    "kana": "ゆうがた",
+    "arti": "sore, waktu senja",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "昼間",
+    "kana": "ひるま",
+    "arti": "siang hari",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "あつい",
+    "kana": "あつい",
+    "arti": "panas",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "すずしい",
+    "kana": "すずしい",
+    "arti": "sejuk, dingin",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "本",
+    "kana": "ほん",
+    "arti": "buku",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "さつ",
+    "kana": "さつ",
+    "arti": "satuan untuk buku",
+    "kategori": "kata satuan"
+  },
+  {
+    "kotoba": "左",
+    "kana": "ひだり",
+    "arti": "kiri",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "信号",
+    "kana": "しんごう",
+    "arti": "lampu lalu lintas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "曲がる",
+    "kana": "まがる",
+    "arti": "berbelok",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "しんごう",
+    "kana": "しんごう",
+    "arti": "lampu lalu lintas",
+    "kategori": "kata benda"
+  }
+]
