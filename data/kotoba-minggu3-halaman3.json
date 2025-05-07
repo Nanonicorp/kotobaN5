@@ -1,49 +1,49 @@
 [
   {
-    "kotoba": "ふゆ",
-    "kana": "冬",
+    "kotoba": "冬",
+    "kana": "ふゆ",
     "arti": "Musim dingin",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "とき",
-    "kana": "時",
+    "kotoba": "時",
+    "kana": "とき",
     "arti": "Waktu",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "べんきょう",
-    "kana": "勉強",
+    "kotoba": "勉強",
+    "kana": "べんきょう",
     "arti": "Belajar",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "すき",
-    "kana": "好き",
+    "kotoba": "好き",
+    "kana": "すき",
     "arti": "Suka",
     "kategori": "kata sifat"
   },
   {
-    "kotoba": "えいが",
-    "kana": "映画",
+    "kotoba": "映画",
+    "kana": "えいが",
     "arti": "Film",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "おもしろい",
-    "kana": "面白い",
+    "kotoba": "面白い",
+    "kana": "おもしろい",
     "arti": "Menarik, lucu",
     "kategori": "kata sifat"
   },
   {
-    "kotoba": "ざっし",
-    "kana": "雑誌",
+    "kotoba": "雑誌",
+    "kana": "ざっし",
     "arti": "Majalah",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "よい",
-    "kana": "良い",
+    "kotoba": "良い",
+    "kana": "よい",
     "arti": "Baik",
     "kategori": "kata sifat"
   },
@@ -54,8 +54,8 @@
     "kategori": "kata benda"
   },
   {
-    "kotoba": "あたらしい",
-    "kana": "新しい",
+    "kotoba": "新しい",
+    "kana": "あたらしい",
     "arti": "Baru",
     "kategori": "kata sifat"
   },
@@ -66,44 +66,44 @@
     "kategori": "kata benda"
   },
   {
-    "kotoba": "かぜ",
-    "kana": "風",
+    "kotoba": "風",
+    "kana": "かぜ",
     "arti": "Angin",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "たいへん",
-    "kana": "大変",
+    "kotoba": "大変",
+    "kana": "たいへん",
     "arti": "Sulit, berat",
     "kategori": "kata sifat"
   },
   {
-    "kotoba": "からだ",
-    "kana": "体",
+    "kotoba": "体",
+    "kana": "からだ",
     "arti": "Tubuh",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "じょうぶ",
-    "kana": "丈夫",
+    "kotoba": "丈夫",
+    "kana": "じょうぶ",
     "arti": "Kuat, sehat",
     "kategori": "kata sifat"
   },
   {
-    "kotoba": "くらい",
-    "kana": "暗い",
+    "kotoba": "暗い",
+    "kana": "くらい",
     "arti": "Gelap",
     "kategori": "kata sifat"
   },
   {
-    "kotoba": "さいて",
-    "kana": "咲いて",
+    "kotoba": "咲いて",
+    "kana": "さいて",
     "arti": "Mekar",
     "kategori": "kata kerja"
   },
   {
-    "kotoba": "にわ",
-    "kana": "庭",
+    "kotoba": "庭",
+    "kana": "にわ",
     "arti": "Taman",
     "kategori": "kata benda"
   },
@@ -114,8 +114,8 @@
     "kategori": "kata benda"
   },
   {
-    "kotoba": "えいご",
-    "kana": "英語",
+    "kotoba": "英語",
+    "kana": "えいご",
     "arti": "Bahasa Inggris",
     "kategori": "kata benda"
   }
