@@ -1,19 +1,19 @@
 [
   {
-    "kotoba": "じしょ",
-    "kana": "辞書",
+    "kotoba": "辞書",
+    "kana": "じしょ",
     "arti": "Kamus",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "わすれる",
-    "kana": "忘れる",
+    "kotoba": "忘れる",
+    "kana": "わすれる",
     "arti": "Melupakan",
     "kategori": "kata kerja"
   },
   {
-    "kotoba": "わすれないで",
-    "kana": "忘れないで",
+    "kotoba": "忘れないで",
+    "kana": "わすれないで",
     "arti": "Jangan lupa",
     "kategori": "frasa"
   },
@@ -24,8 +24,8 @@
     "kategori": "kata benda"
   },
   {
-    "kotoba": "びょうき",
-    "kana": "病気",
+    "kotoba": "病気",
+    "kana": "びょうき",
     "arti": "Penyakit/sakit",
     "kategori": "kata benda"
   },
@@ -36,14 +36,14 @@
     "kategori": "kata benda"
   },
   {
-    "kotoba": "おとうと",
-    "kana": "弟",
+    "kotoba": "弟",
+    "kana": "おとうと",
     "arti": "Adik laki-laki",
     "kategori": "kata benda"
   },
   {
-    "kotoba": "なくします",
-    "kana": "無くします",
+    "kotoba": "無くします",
+    "kana": "なくします",
     "arti": "Kehilangan",
     "kategori": "kata kerja"
   },
@@ -54,8 +54,8 @@
     "kategori": "kata benda"
   },
   {
-    "kotoba": "ふく",
-    "kana": "吹く",
+    "kotoba": "吹く",
+    "kana": "ふく",
     "arti": "Berhembus",
     "kategori": "kata kerja"
   },
@@ -66,20 +66,20 @@
     "kategori": "kata kerja"
   },
   {
-    "kotoba": "おもい",
-    "kana": "重い",
+    "kotoba": "重い",
+    "kana": "おもい",
     "arti": "Berat",
     "kategori": "kata sifat"
   },
   {
-    "kotoba": "ゆうめい",
-    "kana": "有名",
+    "kotoba": "有名",
+    "kana": "ゆうめい",
     "arti": "Terkenal",
     "kategori": "kata sifat"
   },
   {
-    "kotoba": "ことし",
-    "kana": "今年",
+    "kotoba": "今年",
+    "kana": "ことし",
     "arti": "Tahun ini",
     "kategori": "kata benda"
   },
@@ -90,8 +90,8 @@
     "kategori": "kata benda"
   },
   {
-    "kotoba": "つくえ",
-    "kana": "机",
+    "kotoba": "机",
+    "kana": "つくえ",
     "arti": "Meja",
     "kategori": "kata benda"
   }
