@@ -1,0 +1,92 @@
+[
+  {
+    "kotoba": "すき",
+    "kana": "すき",
+    "arti": "Suka",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "どれぐらい",
+    "kana": "どれぐらい",
+    "arti": "Seberapa banyak",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "何か",
+    "kana": "なにか",
+    "arti": "Sesuatu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "いかが",
+    "kana": "いかが",
+    "arti": "Bagaimana",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "早い",
+    "kana": "はやい",
+    "arti": "Cepat",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "帰る",
+    "kana": "かえる",
+    "arti": "Pulang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "うち",
+    "kana": "うち",
+    "arti": "Rumah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "次",
+    "kana": "つぎ",
+    "arti": "Berikutnya",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "お菓子",
+    "kana": "おかし",
+    "arti": "Kue",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "飲み物",
+    "kana": "のみもの",
+    "arti": "Minuman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "円",
+    "kana": "えん",
+    "arti": "Yen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "枚",
+    "kana": "まい",
+    "arti": "Lembar (kata penghitungan benda tipis)",
+    "kategori": "kata penghitungan"
+  },
+  {
+    "kotoba": "撮る",
+    "kana": "とる",
+    "arti": "Mengambil (foto)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "かかる",
+    "kana": "かかる",
+    "arti": "Memakan waktu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "疲れる",
+    "kana": "つかれる",
+    "arti": "Lelah",
+    "kategori": "kata kerja"
+  }
+]
