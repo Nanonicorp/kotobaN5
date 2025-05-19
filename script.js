@@ -2,8 +2,8 @@
 document.addEventListener('DOMContentLoaded', function () {
     let vocabularyData = [];
     let filteredData = [];
-    let currentWeek = 1;
-    let currentDay = 1;
+    let currentWeek = 0;
+    let currentDay = 0;
     let currentPage = 1;
     let itemsPerPage = 10;
     let totalPages = 1;
