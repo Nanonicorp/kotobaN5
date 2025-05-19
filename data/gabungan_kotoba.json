@@ -1,0 +1,2994 @@
+[
+  {
+    "kotoba": "金",
+    "kana": "かね",
+    "arti": "uang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "天気",
+    "kana": "てんき",
+    "arti": "cuaca",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "角",
+    "kana": "かど",
+    "arti": "sudut",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "右",
+    "kana": "みぎ",
+    "arti": "kanan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "新聞",
+    "kana": "しんぶん",
+    "arti": "koran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "時",
+    "kana": "とき",
+    "arti": "waktu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "電車",
+    "kana": "でんしゃ",
+    "arti": "kereta listrik",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "中",
+    "kana": "なか",
+    "arti": "dalam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "母",
+    "kana": "はは",
+    "arti": "ibu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "雨",
+    "kana": "あめ",
+    "arti": "hujan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "友だち",
+    "kana": "ともだち",
+    "arti": "teman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "土ようび",
+    "kana": "どようび",
+    "arti": "hari Sabtu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "休み",
+    "kana": "やすみ",
+    "arti": "libur",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "月ようび",
+    "kana": "げつようび",
+    "arti": "hari Senin",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "レポート",
+    "kana": "れぽーと",
+    "arti": "laporan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "12月",
+    "kana": "じゅうにがつ",
+    "arti": "bulan Desember",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "パソコン",
+    "kana": "ぱそこん",
+    "arti": "komputer",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "宿題",
+    "kana": "しゅくだい",
+    "arti": "pekerjaan rumah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "持っています",
+    "kana": "もっています",
+    "arti": "memiliki",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "なりました",
+    "kana": "なりました",
+    "arti": "menjadi",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "話さない",
+    "kana": "はなさない",
+    "arti": "tidak berbicara",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "食べながら",
+    "kana": "たべながら",
+    "arti": "sambil makan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "曲がって",
+    "kana": "まがって",
+    "arti": "belok",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "行って",
+    "kana": "いって",
+    "arti": "pergi",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "入って",
+    "kana": "はいって",
+    "arti": "masuk",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "失礼します",
+    "kana": "しつれいします",
+    "arti": "permisi",
+    "kategori": "kata kerja (sopan)"
+  },
+  {
+    "kotoba": "読む",
+    "kana": "よむ",
+    "arti": "membaca",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "できません",
+    "kana": "できません",
+    "arti": "tidak bisa",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "来る",
+    "kana": "くる",
+    "arti": "datang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "会いました",
+    "kana": "あいました",
+    "arti": "bertemu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "好きではありません",
+    "kana": "すきではありません",
+    "arti": "tidak suka",
+    "kategori": "kata kerja (negatif)"
+  },
+  {
+    "kotoba": "来ました",
+    "kana": "きました",
+    "arti": "datang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "来ませんでした",
+    "kana": "きませんでした",
+    "arti": "tidak datang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "しませんか",
+    "kana": "しませんか",
+    "arti": "bagaimana kalau (tidak) melakukan?",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "書いて",
+    "kana": "かいて",
+    "arti": "menulis",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "しました",
+    "kana": "しました",
+    "arti": "melakukan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "行きたくない",
+    "kana": "いきたくない",
+    "arti": "tidak ingin pergi",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "いい",
+    "kana": "いい",
+    "arti": "baik",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "忙しくて",
+    "kana": "いそがしくて",
+    "arti": "karena sibuk",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "忙しい",
+    "kana": "いそがしい",
+    "arti": "sibuk",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "高かった",
+    "kana": "たかかった",
+    "arti": "mahal (dulu)",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "今",
+    "kana": "いま",
+    "arti": "sekarang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "よく",
+    "kana": "よく",
+    "arti": "menjadi baik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "どうぞ",
+    "kana": "どうぞ",
+    "arti": "silakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "すみません",
+    "kana": "すみません",
+    "arti": "maaf",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "まだ",
+    "kana": "まだ",
+    "arti": "belum",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "毎年",
+    "kana": "まいとし",
+    "arti": "setiap tahun",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "今日",
+    "kana": "きょう",
+    "arti": "hari ini",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "あまり",
+    "kana": "あまり",
+    "arti": "tidak terlalu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "大勢",
+    "kana": "おおぜい",
+    "arti": "banyak orang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "後で",
+    "kana": "あとで",
+    "arti": "setelah itu",
+    "kategori": "kata sambung"
+  },
+  {
+    "kotoba": "いくら",
+    "kana": "いくら",
+    "arti": "berapa (jumlah)",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "どこにも",
+    "kana": "どこにも",
+    "arti": "ke mana pun",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "しか",
+    "kana": "しか",
+    "arti": "hanya",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "出ます",
+    "kana": "でます",
+    "arti": "keluar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "時間",
+    "kana": "じかん",
+    "arti": "waktu/jam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "国",
+    "kana": "くに",
+    "arti": "negara",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "休みましょう",
+    "kana": "やすみましょう",
+    "arti": "mari beristirahat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "聞きながら",
+    "kana": "ききながら",
+    "arti": "sambil mendengarkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "食べましょう",
+    "kana": "たべましょう",
+    "arti": "mari makan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "出口",
+    "kana": "でぐち",
+    "arti": "pintu keluar",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "古い",
+    "kana": "ふるい",
+    "arti": "tua/lama",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "学校",
+    "kana": "がっこう",
+    "arti": "sekolah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "花",
+    "kana": "はな",
+    "arti": "bunga",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "先生",
+    "kana": "せんせい",
+    "arti": "guru",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "買いたい",
+    "kana": "かいたい",
+    "arti": "ingin membeli",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "駅",
+    "kana": "えき",
+    "arti": "stasiun",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "書いた",
+    "kana": "かいた",
+    "arti": "menulis (bentuk lampau)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "毎朝",
+    "kana": "まいあさ",
+    "arti": "setiap pagi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "家",
+    "kana": "いえ",
+    "arti": "rumah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "昨日",
+    "kana": "きのう",
+    "arti": "kemarin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "寝ました",
+    "kana": "ねました",
+    "arti": "tidur (bentuk lampau)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "一日",
+    "kana": "いちにち",
+    "arti": "sepanjang hari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "仕事",
+    "kana": "しごと",
+    "arti": "pekerjaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "疲れました",
+    "kana": "つかれました",
+    "arti": "lelah (bentuk lampau)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "カフェ",
+    "kana": "かふぇ",
+    "arti": "kafe",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "少し",
+    "kana": "すこし",
+    "arti": "sedikit",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "音楽",
+    "kana": "おんがく",
+    "arti": "musik",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "何",
+    "kana": "なん",
+    "arti": "apa",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "白い",
+    "kana": "しろい",
+    "arti": "putih",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "ビル",
+    "kana": "びる",
+    "arti": "gedung",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "向こう",
+    "kana": "むこう",
+    "arti": "seberang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "女の人",
+    "kana": "おんなのひと",
+    "arti": "perempuan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "多分",
+    "kana": "たぶん",
+    "arti": "mungkin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "新しい",
+    "kana": "あたらしい",
+    "arti": "baru",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "シャツ",
+    "kana": "しゃつ",
+    "arti": "kemeja",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "これから",
+    "kana": "これから",
+    "arti": "mulai sekarang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "会います",
+    "kana": "あいます",
+    "arti": "bertemu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ブログ",
+    "kana": "ぶろぐ",
+    "arti": "blog",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ぐらい",
+    "kana": "ぐらい",
+    "arti": "sekitar",
+    "kategori": "partikel"
+  },
+  {
+    "kotoba": "とても",
+    "kana": "とても",
+    "arti": "sangat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "たぶん",
+    "kana": "たぶん",
+    "arti": "mungkin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "寒い",
+    "kana": "さむい",
+    "arti": "dingin",
+    "kategori": "kata sifat (i-adjective)",
+    "bentuk": [
+      "さむいです (present)",
+      "さむかったです (past)"
+    ]
+  },
+  {
+    "kotoba": "おいしい",
+    "kana": "おいしい",
+    "arti": "enak",
+    "kategori": "kata sifat (i-adjective)",
+    "bentuk": [
+      "おいしくないです (negatif present)"
+    ]
+  },
+  {
+    "kotoba": "重い",
+    "kana": "おもい",
+    "arti": "berat",
+    "kategori": "kata sifat (i-adjective)",
+    "bentuk": [
+      "おもかったです (past)"
+    ]
+  },
+  {
+    "kotoba": "難しい",
+    "kana": "むずかしい",
+    "arti": "sulit",
+    "kategori": "kata sifat (i-adjective)",
+    "bentuk": [
+      "むずかしくないです (negatif)"
+    ]
+  },
+  {
+    "kotoba": "有名",
+    "kana": "ゆうめい",
+    "arti": "terkenal",
+    "kategori": "kata sifat (na-adjective)",
+    "bentuk": [
+      "ではありません (negatif formal)"
+    ]
+  },
+  {
+    "kotoba": "どこ",
+    "kana": "どこ",
+    "arti": "di mana",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "どんな",
+    "kana": "どんな",
+    "arti": "seperti apa",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "どの",
+    "kana": "どの",
+    "arti": "yang mana (diikuti kata benda)",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "どれ",
+    "kana": "どれ",
+    "arti": "yang mana (benda)",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "いくつ",
+    "kana": "いくつ",
+    "arti": "berapa (untuk benda bisa dihitung)",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "どちら",
+    "kana": "どちら",
+    "arti": "yang mana (lebih sopan)",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "みかん",
+    "kana": "みかん",
+    "arti": "jeruk",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "テスト",
+    "kana": "てすと",
+    "arti": "tes",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "おかし",
+    "kana": "おかし",
+    "arti": "kue/makanan ringan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "かばん",
+    "kana": "かばん",
+    "arti": "tas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ばんごはん",
+    "kana": "ばんごはん",
+    "arti": "makan malam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "スポーツ",
+    "kana": "すぽーつ",
+    "arti": "olahraga",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "トイレ",
+    "kana": "といれ",
+    "arti": "toilet",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "コーヒー",
+    "kana": "こーひー",
+    "arti": "kopi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ペン",
+    "kana": "ぺん",
+    "arti": "pulpen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "テーブル",
+    "kana": "てーぶる",
+    "arti": "meja",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ナイフ",
+    "kana": "ないふ",
+    "arti": "pisau",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "フォーク",
+    "kana": "ふぉーく",
+    "arti": "garpu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "買いました",
+    "kana": "かいました",
+    "arti": "membeli (lampau)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "見ました",
+    "kana": "みました",
+    "arti": "menonton/melihat (lampau)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "食べます",
+    "kana": "たべます",
+    "arti": "makan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ください",
+    "kana": "ください",
+    "arti": "tolong berikan",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "食べる",
+    "kana": "たべる",
+    "arti": "makan",
+    "kategori": "kata kerja (ichidan)",
+    "bentuk": [
+      {
+        "form": "て-form",
+        "kana": "たべて",
+        "arti": "makan (sambung)"
+      },
+      {
+        "form": "past",
+        "kana": "たべた",
+        "arti": "telah makan"
+      },
+      {
+        "form": "negative",
+        "kana": "たべない",
+        "arti": "tidak makan"
+      }
+    ]
+  },
+  {
+    "kotoba": "飲む",
+    "kana": "のむ",
+    "arti": "minum",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {
+        "form": "ながら-form",
+        "kana": "のみながら",
+        "arti": "sambil minum"
+      },
+      {
+        "form": "て-form",
+        "kana": "のんで",
+        "arti": "minum (sambung)"
+      }
+    ]
+  },
+  {
+    "kotoba": "行く",
+    "kana": "いく",
+    "arti": "pergi",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {
+        "form": "pre-masu",
+        "kana": "いき",
+        "arti": "pergi (bentuk sambung)"
+      },
+      {
+        "form": "て-form",
+        "kana": "いって",
+        "arti": "pergi (sambung)"
+      }
+    ]
+  },
+  {
+    "kotoba": "入る",
+    "kana": "はいる",
+    "arti": "masuk",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {
+        "form": "て-form",
+        "kana": "はいって",
+        "arti": "masuk (sambung)"
+      },
+      {
+        "form": "masu-stem",
+        "kana": "はいり",
+        "arti": "masuk (bentuk sambung)"
+      }
+    ]
+  },
+  {
+    "kotoba": "買う",
+    "kana": "かう",
+    "arti": "membeli",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {
+        "form": "て-form",
+        "kana": "かって",
+        "arti": "membeli (sambung)"
+      },
+      {
+        "form": "past",
+        "kana": "かった",
+        "arti": "telah membeli"
+      }
+    ]
+  },
+  {
+    "kotoba": "待つ",
+    "kana": "まつ",
+    "arti": "menunggu",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {
+        "form": "て-form",
+        "kana": "まって",
+        "arti": "tunggu (sambung)"
+      }
+    ]
+  },
+  {
+    "kotoba": "磨く",
+    "kana": "みがく",
+    "arti": "menggosok",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {
+        "form": "て-form",
+        "kana": "みがいて",
+        "arti": "gosok (sambung)"
+      }
+    ]
+  },
+  {
+    "kotoba": "弾く",
+    "kana": "ひく",
+    "arti": "memainkan (alat musik)",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {
+        "form": "て-form",
+        "kana": "ひいて",
+        "arti": "mainkan (sambung)"
+      }
+    ]
+  },
+  {
+    "kotoba": "覚える",
+    "kana": "おぼえる",
+    "arti": "mengingat",
+    "kategori": "kata kerja (ichidan)",
+    "bentuk": [
+      {
+        "form": "て-form",
+        "kana": "おぼえて",
+        "arti": "ingat (sambung)"
+      }
+    ]
+  },
+  {
+    "kotoba": "切る",
+    "kana": "きる",
+    "arti": "memotong",
+    "kategori": "kata kerja (godan)",
+    "bentuk": [
+      {
+        "form": "て-form",
+        "kana": "きって",
+        "arti": "potong (sambung)"
+      }
+    ]
+  },
+  {
+    "kotoba": "小さい",
+    "kana": "ちいさい",
+    "arti": "kecil",
+    "kategori": "i-adjective",
+    "bentuk": [
+      {
+        "form": "て-form",
+        "kana": "ちいさくて",
+        "arti": "kecil (sambung)"
+      }
+    ]
+  },
+  {
+    "kotoba": "元気",
+    "kana": "げんき",
+    "arti": "sehat/bersemangat",
+    "kategori": "na-adjective/noun",
+    "bentuk": [
+      {
+        "form": "て-form",
+        "kana": "げんきで",
+        "arti": "sehat (sambung)"
+      }
+    ]
+  },
+  {
+    "kotoba": "薬",
+    "kana": "くすり",
+    "arti": "obat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "会社",
+    "kana": "かいしゃ",
+    "arti": "perusahaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ジョギング",
+    "kana": "じょぎんぐ",
+    "arti": "jogging",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "毎晩",
+    "kana": "まいばん",
+    "arti": "setiap malam",
+    "kategori": "kata keterangan waktu"
+  },
+  {
+    "kotoba": "お風呂",
+    "kana": "おふろ",
+    "arti": "bak mandi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "弟",
+    "kana": "おとうと",
+    "arti": "adik laki-laki",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "学生",
+    "kana": "がくせい",
+    "arti": "pelajar/mahasiswa",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "雪",
+    "kana": "ゆき",
+    "arti": "salju",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "辞書",
+    "kana": "じしょ",
+    "arti": "kamus",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "漢字",
+    "kana": "かんじ",
+    "arti": "kanji",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "パーティー",
+    "kana": "ぱーてぃー",
+    "arti": "pesta",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ギター",
+    "kana": "ぎたー",
+    "arti": "gitar",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "言葉",
+    "kana": "ことば",
+    "arti": "kata",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "大切",
+    "kana": "たいせつ",
+    "arti": "penting",
+    "kategori": "na-adjective"
+  },
+  {
+    "kotoba": "ケーキ",
+    "kana": "けーき",
+    "arti": "kue",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "半分",
+    "kana": "はんぶん",
+    "arti": "setengah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "から",
+    "kana": "から",
+    "arti": "setelah/karena",
+    "kategori": "partikel"
+  },
+  {
+    "kotoba": "前に",
+    "kana": "まえに",
+    "arti": "sebelum",
+    "kategori": "partikel waktu"
+  },
+  {
+    "kotoba": "で",
+    "kana": "で",
+    "arti": "sebagai (peran)/dengan",
+    "kategori": "partikel"
+  },
+  {
+    "kotoba": "くて",
+    "kana": "くて",
+    "arti": "dan (sambung i-adjective)",
+    "kategori": "partikel sambung"
+  },
+  {
+    "kotoba": "に",
+    "kana": "に",
+    "arti": "untuk (tujuan)",
+    "kategori": "partikel"
+  },
+  {
+    "kotoba": "明日",
+    "kana": "あした",
+    "arti": "besok",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "朝",
+    "kana": "あさ",
+    "arti": "pagi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "私",
+    "kana": "わたし",
+    "arti": "saya",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "もっと",
+    "kana": "もっと",
+    "arti": "lebih",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "広い",
+    "kana": "ひろい",
+    "arti": "luas",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "部屋",
+    "kana": "へや",
+    "arti": "ruangan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "欲しい",
+    "kana": "ほしい",
+    "arti": "ingin",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "お酒",
+    "kana": "おさけ",
+    "arti": "alkohol",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "顔",
+    "kana": "かお",
+    "arti": "wajah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "赤い",
+    "kana": "あかい",
+    "arti": "merah",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "なる",
+    "kana": "なる",
+    "arti": "menjadi",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "勉強する",
+    "kana": "べんきょうする",
+    "arti": "belajar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "困る",
+    "kana": "こまる",
+    "arti": "kesulitan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "近く",
+    "kana": "ちかく",
+    "arti": "dekat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "歩く",
+    "kana": "あるく",
+    "arti": "berjalan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "分",
+    "kana": "ふん",
+    "arti": "menit",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "前",
+    "kana": "まえ",
+    "arti": "depan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "たくさん",
+    "kana": "たくさん",
+    "arti": "banyak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "銀行",
+    "kana": "ぎんこう",
+    "arti": "bank",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ある",
+    "kana": "ある",
+    "arti": "ada (untuk benda mati)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "何時",
+    "kana": "なんじ",
+    "arti": "jam berapa",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "10時",
+    "kana": "じゅうじ",
+    "arti": "jam 10",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "半",
+    "kana": "はん",
+    "arti": "setengah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "今週",
+    "kana": "こんしゅう",
+    "arti": "minggu ini",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "安い",
+    "kana": "やすい",
+    "arti": "murah",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "ない",
+    "kana": "ない",
+    "arti": "tidak (negatif)",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "テレビ",
+    "kana": "テレビ",
+    "arti": "televisi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "いる",
+    "kana": "いる",
+    "arti": "ada (untuk makhluk hidup)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "きれいに",
+    "kana": "きれいに",
+    "arti": "dengan bersih",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "掃除する",
+    "kana": "そうじする",
+    "arti": "membersihkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ヒーター",
+    "kana": "ヒーター",
+    "arti": "pemanas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "つける",
+    "kana": "つける",
+    "arti": "menyalakan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "する",
+    "kana": "する",
+    "arti": "melakukan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "子どもたち",
+    "kana": "こどもたち",
+    "arti": "anak-anak",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "元気に",
+    "kana": "げんきに",
+    "arti": "dengan ceria",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "話す",
+    "kana": "はなす",
+    "arti": "berbicara",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "にぎやかな",
+    "kana": "にぎやかな",
+    "arti": "ramai",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "肉",
+    "kana": "にく",
+    "arti": "daging",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "薄い",
+    "kana": "うすい",
+    "arti": "tipis",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "晩ご飯",
+    "kana": "ばんごはん",
+    "arti": "makan malam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "遅い",
+    "kana": "おそい",
+    "arti": "terlambat",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "むすめ",
+    "kana": "むすめ",
+    "arti": "anak perempuan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "しゅくだい",
+    "kana": "しゅくだい",
+    "arti": "pekerjaan rumah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "させた",
+    "kana": "させた",
+    "arti": "menyuruh untuk melakukan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "きのう",
+    "kana": "きのう",
+    "arti": "kemarin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "さいふ",
+    "kana": "さいふ",
+    "arti": "dompet",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ぬすまれて",
+    "kana": "ぬすまれて",
+    "arti": "dicuri",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "むすこ",
+    "kana": "むすこ",
+    "arti": "anak laki-laki",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "やらせて",
+    "kana": "やらせて",
+    "arti": "membiarkan (melakukan)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "みます",
+    "kana": "みます",
+    "arti": "mencoba",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "なかせる",
+    "kana": "なかせる",
+    "arti": "menyebabkan menangis",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ような",
+    "kana": "ような",
+    "arti": "seperti",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "こと",
+    "kana": "こと",
+    "arti": "hal",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "したくない",
+    "kana": "したくない",
+    "arti": "tidak ingin melakukan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "名前",
+    "kana": "なまえ",
+    "arti": "nama",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "よばれた",
+    "kana": "よばれた",
+    "arti": "dipanggil",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ご主人",
+    "kana": "ごしゅじん",
+    "arti": "suami",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "おかげさまで",
+    "kana": "おかげさまで",
+    "arti": "terima kasih atas bantuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "通り",
+    "kana": "とおり",
+    "arti": "sesuai",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "こちらこそ",
+    "kana": "こちらこそ",
+    "arti": "saya juga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "終わった",
+    "kana": "おわった",
+    "arti": "selesai",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "先",
+    "kana": "さき",
+    "arti": "duluan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "失礼",
+    "kana": "しつれい",
+    "arti": "permisi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "おつかれさまでした",
+    "kana": "おつかれさまでした",
+    "arti": "terima kasih atas kerja keras Anda",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "どういたしまして",
+    "kana": "どういたしまして",
+    "arti": "sama-sama",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "パンフレット",
+    "kana": "ぱんふれっと",
+    "arti": "pamflet",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "もらって",
+    "kana": "もらって",
+    "arti": "menerima",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "おねがいします",
+    "kana": "おねがいします",
+    "arti": "tolong",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "自分",
+    "kana": "じぶん",
+    "arti": "diri sendiri",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "手伝って",
+    "kana": "てつだって",
+    "arti": "membantu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "自由",
+    "kana": "じゆう",
+    "arti": "bebas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "プレゼント",
+    "kana": "ぷれぜんと",
+    "arti": "hadiah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "用",
+    "kana": "よう",
+    "arti": "untuk",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "つつんで",
+    "kana": "つつんで",
+    "arti": "membungkus",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "おそれいります",
+    "kana": "おそれいります",
+    "arti": "terima kasih (dengan rasa hormat)",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "あけまして",
+    "kana": "あけまして",
+    "arti": "selamat (untuk tahun baru)",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "おめでとう",
+    "kana": "おめでとう",
+    "arti": "selamat",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "ございます",
+    "kana": "ございます",
+    "arti": "ada (bentuk sopan)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "おめでとうございます",
+    "kana": "おめでとうございます",
+    "arti": "selamat (dengan bentuk sopan)",
+    "kategori": "ungkapan"
+  },
+  {
+    "kotoba": "ここ",
+    "kana": "ここ",
+    "arti": "sini",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "レストラン",
+    "kana": "レストラン",
+    "arti": "restoran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "しずか",
+    "kana": "しずか",
+    "arti": "tenang",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "ぼうし",
+    "kana": "ぼうし",
+    "arti": "topi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "行きましょう",
+    "kana": "いきましょう",
+    "arti": "mari pergi",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "かぶる",
+    "kana": "かぶる",
+    "arti": "memakai (topi)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "まち",
+    "kana": "まち",
+    "arti": "kota",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "べんり",
+    "kana": "べんり",
+    "arti": "praktis",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "にぎやか",
+    "kana": "にぎやか",
+    "arti": "ramai",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "くだもの",
+    "kana": "くだもの",
+    "arti": "buah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "あまい",
+    "kana": "あまい",
+    "arti": "manis",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "よる",
+    "kana": "よる",
+    "arti": "malam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "７時",
+    "kana": "しちじ",
+    "arti": "pukul tujuh",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "かえる",
+    "kana": "かえる",
+    "arti": "pulang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "サンドイッチ",
+    "kana": "サンドイッチ",
+    "arti": "sandwich",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "子ども",
+    "kana": "こども",
+    "arti": "anak",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "寝る",
+    "kana": "ねる",
+    "arti": "tidur",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "大きい",
+    "kana": "おおきい",
+    "arti": "besar",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "声",
+    "kana": "こえ",
+    "arti": "suara",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "歌う",
+    "kana": "うたう",
+    "arti": "menyanyi",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "使う",
+    "kana": "つかう",
+    "arti": "menggunakan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "写真",
+    "kana": "しゃしん",
+    "arti": "foto",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "失くす",
+    "kana": "なくす",
+    "arti": "menghilangkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "机",
+    "kana": "つくえ",
+    "arti": "meja",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "上",
+    "kana": "うえ",
+    "arti": "atas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "鞄",
+    "kana": "かばん",
+    "arti": "tas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "置く",
+    "kana": "おく",
+    "arti": "meletakkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "お茶",
+    "kana": "おちゃ",
+    "arti": "teh",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "病院",
+    "kana": "びょういん",
+    "arti": "rumah sakit",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "友達",
+    "kana": "ともだち",
+    "arti": "teman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "会う",
+    "kana": "あう",
+    "arti": "bertemu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "山本",
+    "kana": "やまもと",
+    "arti": "Yamamoto (nama orang)",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ゴルフ",
+    "kana": "ごるふ",
+    "arti": "golf",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "テニス",
+    "kana": "てにす",
+    "arti": "tenis",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "車",
+    "kana": "くるま",
+    "arti": "mobil",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "うしろ",
+    "kana": "うしろ",
+    "arti": "belakang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "女の子",
+    "kana": "おんなのこ",
+    "arti": "anak perempuan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "にく",
+    "kana": "にく",
+    "arti": "daging",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "きる",
+    "kana": "きる",
+    "arti": "memotong",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "へや",
+    "kana": "へや",
+    "arti": "kamar",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "そうじ",
+    "kana": "そうじ",
+    "arti": "membersihkan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "きれい",
+    "kana": "きれい",
+    "arti": "rapi",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "あたたかい",
+    "kana": "あたたかい",
+    "arti": "hangat",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "うすい",
+    "kana": "うすい",
+    "arti": "tipis",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "晩ごはん",
+    "kana": "ばんごはん",
+    "arti": "makan malam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ごはん",
+    "kana": "ごはん",
+    "arti": "nasi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "食べました",
+    "kana": "たべました",
+    "arti": "makan (bentuk sopan)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ところ",
+    "kana": "ところ",
+    "arti": "tempat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "この",
+    "kana": "この",
+    "arti": "ini",
+    "kategori": "kata tunjuk"
+  },
+  {
+    "kotoba": "けさ",
+    "kana": "けさ",
+    "arti": "pagi ini",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "わたし",
+    "kana": "わたし",
+    "arti": "saya",
+    "kategori": "kata ganti"
+  },
+  {
+    "kotoba": "食べて",
+    "kana": "たべて",
+    "arti": "makan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "きょねん",
+    "kana": "きょねん",
+    "arti": "tahun lalu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "きょうと",
+    "kana": "きょうと",
+    "arti": "Kyoto",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "しゃしん",
+    "kana": "しゃしん",
+    "arti": "foto",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "いそがしい",
+    "kana": "いそがしい",
+    "arti": "sibuk",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "朝ごはん",
+    "kana": "あさごはん",
+    "arti": "sarapan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ありません",
+    "kana": "ありません",
+    "arti": "tidak ada",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "山口さん",
+    "kana": "やまぐちさん",
+    "arti": "Yamaguchi-san (Tuan/Nyonya Yamaguchi)",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "日",
+    "kana": "ひ",
+    "arti": "hari",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "木よう日",
+    "kana": "もくようび",
+    "arti": "hari Kamis",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "あした",
+    "kana": "あした",
+    "arti": "besok",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "休む",
+    "kana": "やすむ",
+    "arti": "libur; tidak masuk",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "人",
+    "kana": "ひと",
+    "arti": "orang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "だれ",
+    "kana": "だれ",
+    "arti": "siapa",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "いちばん",
+    "kana": "いちばん",
+    "arti": "paling",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "たいへんな",
+    "kana": "たいへんな",
+    "arti": "sulit; berat",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "しごと",
+    "kana": "しごと",
+    "arti": "pekerjaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "あね",
+    "kana": "あね",
+    "arti": "kakak perempuan (sendiri)",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "つくった",
+    "kana": "つくった",
+    "arti": "telah membuat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "来月",
+    "kana": "らいげつ",
+    "arti": "bulan depan",
+    "kategori": "kata keterangan waktu"
+  },
+  {
+    "kotoba": "これ",
+    "kana": "これ",
+    "arti": "ini",
+    "kategori": "kata tunjuk"
+  },
+  {
+    "kotoba": "先週",
+    "kana": "せんしゅう",
+    "arti": "minggu lalu",
+    "kategori": "kata keterangan waktu"
+  },
+  {
+    "kotoba": "買った",
+    "kana": "かった",
+    "arti": "membeli (bentuk lampau dari 買う)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "カメラ",
+    "kana": "かめら",
+    "arti": "kamera",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "立っている",
+    "kana": "たっている",
+    "arti": "sedang berdiri",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "田中さん",
+    "kana": "たなかさん",
+    "arti": "Tuan/Tn. Tanaka",
+    "kategori": "nama"
+  },
+  {
+    "kotoba": "六",
+    "kana": "ろく",
+    "arti": "enam",
+    "kategori": "angka"
+  },
+  {
+    "kotoba": "走る",
+    "kana": "はしる",
+    "arti": "berlari",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "ないで",
+    "kana": "ないで",
+    "arti": "tanpa (bentuk larangan)",
+    "kategori": "bentuk kata kerja"
+  },
+  {
+    "kotoba": "空",
+    "kana": "そら",
+    "arti": "langit",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "西",
+    "kana": "にし",
+    "arti": "barat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "見て",
+    "kana": "みて",
+    "arti": "melihat (bentuk perintah)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "穴",
+    "kana": "あな",
+    "arti": "lubang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "室",
+    "kana": "しつ",
+    "arti": "ruangan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "突",
+    "kana": "つき",
+    "arti": "menyentuh, menusuk",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "夕方",
+    "kana": "ゆうがた",
+    "arti": "sore, waktu senja",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "昼間",
+    "kana": "ひるま",
+    "arti": "siang hari",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "あつい",
+    "kana": "あつい",
+    "arti": "panas",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "すずしい",
+    "kana": "すずしい",
+    "arti": "sejuk, dingin",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "本",
+    "kana": "ほん",
+    "arti": "buku",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "さつ",
+    "kana": "さつ",
+    "arti": "satuan untuk buku",
+    "kategori": "kata satuan"
+  },
+  {
+    "kotoba": "左",
+    "kana": "ひだり",
+    "arti": "kiri",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "信号",
+    "kana": "しんごう",
+    "arti": "lampu lalu lintas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "曲がる",
+    "kana": "まがる",
+    "arti": "berbelok",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "しんごう",
+    "kana": "しんごう",
+    "arti": "lampu lalu lintas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "目",
+    "kana": "め",
+    "arti": "Mata",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "悪く",
+    "kana": "わるく",
+    "arti": "Buruk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "午前",
+    "kana": "ごぜん",
+    "arti": "Pagi, sebelum tengah hari",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "出ました",
+    "kana": "でました",
+    "arti": "Pergi keluar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "日本語",
+    "kana": "にほんご",
+    "arti": "Bahasa Jepang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "言います",
+    "kana": "いいます",
+    "arti": "Mengatakan, berbicara",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "男",
+    "kana": "おとこ",
+    "arti": "Laki-laki",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "子",
+    "kana": "こ",
+    "arti": "Anak",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "七人",
+    "kana": "しちにん",
+    "arti": "Tujuh orang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "西口",
+    "kana": "にしぐち",
+    "arti": "Pintu barat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "どっち",
+    "kana": "どっち",
+    "arti": "Yang mana",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "八千円",
+    "kana": "はっせんえん",
+    "arti": "8000 yen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "安くて",
+    "kana": "やすくて",
+    "arti": "Murah dan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "土曜日",
+    "kana": "どようび",
+    "arti": "Sabtu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "カナダ",
+    "kana": "カナダ",
+    "arti": "Kanada",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "行きます",
+    "kana": "いきます",
+    "arti": "Pergi",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "お母さん",
+    "kana": "おかあさん",
+    "arti": "Ibu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "いつ",
+    "kana": "いつ",
+    "arti": "Kapan",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "日本",
+    "kana": "にほん",
+    "arti": "Jepang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "来ます",
+    "kana": "きます",
+    "arti": "Datang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "山",
+    "kana": "やま",
+    "arti": "Gunung",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "７時間",
+    "kana": "しちじかん",
+    "arti": "7 jam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "歩きました",
+    "kana": "あるきました",
+    "arti": "Berjalan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "山田さん",
+    "kana": "やまださん",
+    "arti": "Nama orang (Yamada)",
+    "kategori": "nama orang"
+  },
+  {
+    "kotoba": "東口",
+    "kana": "ひがしぐち",
+    "arti": "Pintu timur",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "こっち",
+    "kana": "こっち",
+    "arti": "Arah sini",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "あります",
+    "kana": "あります",
+    "arti": "Ada",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "冬",
+    "kana": "ふゆ",
+    "arti": "Musim dingin",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "時",
+    "kana": "とき",
+    "arti": "Waktu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "勉強",
+    "kana": "べんきょう",
+    "arti": "Belajar",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "好き",
+    "kana": "すき",
+    "arti": "Suka",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "映画",
+    "kana": "えいが",
+    "arti": "Film",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "面白い",
+    "kana": "おもしろい",
+    "arti": "Menarik, lucu",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "雑誌",
+    "kana": "ざっし",
+    "arti": "Majalah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "良い",
+    "kana": "よい",
+    "arti": "Baik",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "ホテル",
+    "kana": "ホテル",
+    "arti": "Hotel",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "新しい",
+    "kana": "あたらしい",
+    "arti": "Baru",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "夜",
+    "kana": "よる",
+    "arti": "Malam",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "風",
+    "kana": "かぜ",
+    "arti": "Angin",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "大変",
+    "kana": "たいへん",
+    "arti": "Sulit, berat",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "体",
+    "kana": "からだ",
+    "arti": "Tubuh",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "丈夫",
+    "kana": "じょうぶ",
+    "arti": "Kuat, sehat",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "暗い",
+    "kana": "くらい",
+    "arti": "Gelap",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "咲いて",
+    "kana": "さいて",
+    "arti": "Mekar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "庭",
+    "kana": "にわ",
+    "arti": "Taman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "大学",
+    "kana": "だいがく",
+    "arti": "Universitas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "英語",
+    "kana": "えいご",
+    "arti": "Bahasa Inggris",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "辞書",
+    "kana": "じしょ",
+    "arti": "Kamus",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "忘れる",
+    "kana": "わすれる",
+    "arti": "Melupakan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "忘れないで",
+    "kana": "わすれないで",
+    "arti": "Jangan lupa",
+    "kategori": "frasa"
+  },
+  {
+    "kotoba": "アパート",
+    "kana": "アパート",
+    "arti": "Apartemen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "病気",
+    "kana": "びょうき",
+    "arti": "Penyakit/sakit",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "エレベーター",
+    "kana": "エレベーター",
+    "arti": "Lift",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "弟",
+    "kana": "おとうと",
+    "arti": "Adik laki-laki",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "無くします",
+    "kana": "なくします",
+    "arti": "Kehilangan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "お金",
+    "kana": "おかね",
+    "arti": "Uang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "吹く",
+    "kana": "ふく",
+    "arti": "Berhembus",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "入れて",
+    "kana": "いれて",
+    "arti": "Memasukkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "重い",
+    "kana": "おもい",
+    "arti": "Berat",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "有名",
+    "kana": "ゆうめい",
+    "arti": "Terkenal",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "今年",
+    "kana": "ことし",
+    "arti": "Tahun ini",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "はたち",
+    "kana": "はたち",
+    "arti": "Usia 20 tahun",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "机",
+    "kana": "つくえ",
+    "arti": "Meja",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "見る",
+    "kana": "みる",
+    "arti": "Melihat",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "買い物",
+    "kana": "かいもの",
+    "arti": "Belanja",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "乗る",
+    "kana": "のる",
+    "arti": "Naik",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "魚",
+    "kana": "さかな",
+    "arti": "Ikan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "泳ぐ",
+    "kana": "およぐ",
+    "arti": "Berenang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "図書館",
+    "kana": "としょかん",
+    "arti": "Perpustakaan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "電気",
+    "kana": "でんき",
+    "arti": "Listrik",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "消す",
+    "kana": "けす",
+    "arti": "Mematikan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "教室",
+    "kana": "きょうしつ",
+    "arti": "Kelas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "ドア",
+    "kana": "ドア",
+    "arti": "Pintu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "貼る",
+    "kana": "はる",
+    "arti": "Menempelkan",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "出かける",
+    "kana": "でかける",
+    "arti": "Pergi keluar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "牛肉",
+    "kana": "ぎゅうにく",
+    "arti": "Daging sapi",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "登る",
+    "kana": "のぼる",
+    "arti": "Mendaki",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "富士山",
+    "kana": "ふじさん",
+    "arti": "Gunung Fuji",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "子供",
+    "kana": "こども",
+    "arti": "Anak-anak",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "明るい",
+    "kana": "あかるい",
+    "arti": "Terang",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "午後",
+    "kana": "ごご",
+    "arti": "Sore",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "毎日",
+    "kana": "まいにち",
+    "arti": "Setiap hari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "毎月",
+    "kana": "まいげつ",
+    "arti": "Setiap bulan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "起きる",
+    "kana": "おきる",
+    "arti": "Bangun",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "出る",
+    "kana": "でる",
+    "arti": "Keluar",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "お弁当",
+    "kana": "おべんとう",
+    "arti": "Makan siang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "八万円",
+    "kana": "はちまんえん",
+    "arti": "80.000 yen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "手紙",
+    "kana": "てがみ",
+    "arti": "Surat",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "高い",
+    "kana": "たかい",
+    "arti": "Mahal",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "道",
+    "kana": "みち",
+    "arti": "Jalan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "キロ",
+    "kana": "キロ",
+    "arti": "Kilometer",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "南",
+    "kana": "みなみ",
+    "arti": "Selatan",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "川",
+    "kana": "かわ",
+    "arti": "Sungai",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "来年",
+    "kana": "らいねん",
+    "arti": "Tahun depan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "夏",
+    "kana": "なつ",
+    "arti": "Musim panas",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "外国",
+    "kana": "がいこく",
+    "arti": "Luar negeri",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "授業",
+    "kana": "じゅぎょう",
+    "arti": "Pelajaran",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "後",
+    "kana": "あと",
+    "arti": "Setelah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "外",
+    "kana": "そと",
+    "arti": "Luar",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "今月",
+    "kana": "こんげつ",
+    "arti": "Bulan ini",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "五日",
+    "kana": "いつか",
+    "arti": "Tanggal lima",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "北口",
+    "kana": "きたぐち",
+    "arti": "Pintu utara",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "まっすぐ",
+    "kana": "まっすぐ",
+    "arti": "Lurus",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "黒い",
+    "kana": "くろい",
+    "arti": "Hitam",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "眼鏡",
+    "kana": "めがね",
+    "arti": "Kacamata",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "降る",
+    "kana": "ふる",
+    "arti": "Turun (hujan)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "北",
+    "kana": "きた",
+    "arti": "Utara",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "生まれる",
+    "kana": "うまれる",
+    "arti": "Lahir",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "後ろ",
+    "kana": "うしろ",
+    "arti": "Belakang",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "公園",
+    "kana": "こうえん",
+    "arti": "Taman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "すき",
+    "kana": "すき",
+    "arti": "Suka",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "どれぐらい",
+    "kana": "どれぐらい",
+    "arti": "Seberapa banyak",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "何か",
+    "kana": "なにか",
+    "arti": "Sesuatu",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "いかが",
+    "kana": "いかが",
+    "arti": "Bagaimana",
+    "kategori": "kata tanya"
+  },
+  {
+    "kotoba": "早い",
+    "kana": "はやい",
+    "arti": "Cepat",
+    "kategori": "kata sifat"
+  },
+  {
+    "kotoba": "帰る",
+    "kana": "かえる",
+    "arti": "Pulang",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "うち",
+    "kana": "うち",
+    "arti": "Rumah",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "次",
+    "kana": "つぎ",
+    "arti": "Berikutnya",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "お菓子",
+    "kana": "おかし",
+    "arti": "Kue",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "飲み物",
+    "kana": "のみもの",
+    "arti": "Minuman",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "円",
+    "kana": "えん",
+    "arti": "Yen",
+    "kategori": "kata benda"
+  },
+  {
+    "kotoba": "枚",
+    "kana": "まい",
+    "arti": "Lembar (kata penghitungan benda tipis)",
+    "kategori": "kata penghitungan"
+  },
+  {
+    "kotoba": "撮る",
+    "kana": "とる",
+    "arti": "Mengambil (foto)",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "かかる",
+    "kana": "かかる",
+    "arti": "Memakan waktu",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "疲れる",
+    "kana": "つかれる",
+    "arti": "Lelah",
+    "kategori": "kata kerja"
+  },
+  {
+    "kotoba": "書く",
+    "kana": "かく",
+    "arti": "Menulis",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "大丈夫",
+    "kana": "だいじょうぶ",
+    "arti": "Baik",
+    "kategori": "kata sifat (N5)"
+  },
+  {
+    "kotoba": "行う",
+    "kana": "おこなう",
+    "arti": "Mengadakan",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "親切",
+    "kana": "しんせつ",
+    "arti": "Ramah",
+    "kategori": "kata sifat (N5)"
+  },
+  {
+    "kotoba": "優しい",
+    "kana": "やさしい",
+    "arti": "Baik hati",
+    "kategori": "kata sifat (N5)"
+  },
+  {
+    "kotoba": "兄",
+    "kana": "あに",
+    "arti": "Kakak",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "尊敬",
+    "kana": "そんけい",
+    "arti": "Menghormati",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "小学校",
+    "kana": "しょうがっこう",
+    "arti": "Sekolah dasar",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "通う",
+    "kana": "かよう",
+    "arti": "Pergi ke",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "おもしろい",
+    "kana": "おもしろい",
+    "arti": "Menarik",
+    "kategori": "kata sifat (N5)"
+  },
+  {
+    "kotoba": "吸う",
+    "kana": "すう",
+    "arti": "Menghisap",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "二回",
+    "kana": "にかい",
+    "arti": "Dua kali",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "一週間",
+    "kana": "いっしゅうかん",
+    "arti": "Satu minggu",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "聞く",
+    "kana": "きく",
+    "arti": "Mendengar",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "歌",
+    "kana": "うた",
+    "arti": "Lagu",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "押す",
+    "kana": "おす",
+    "arti": "Menekan",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "知る",
+    "kana": "しる",
+    "arti": "Mengetahui",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "開ける",
+    "kana": "あける",
+    "arti": "Membuka",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "留学",
+    "kana": "りゅうがく",
+    "arti": "Studi luar negeri",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "息子",
+    "kana": "むすこ",
+    "arti": "Anak laki-laki",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "楽しい",
+    "kana": "たのしい",
+    "arti": "Menyenangkan",
+    "kategori": "kata sifat (N5)"
+  },
+  {
+    "kotoba": "過ごす",
+    "kana": "すごす",
+    "arti": "Menghabiskan waktu",
+    "kategori": "kata kerja (N5)"
+  },
+  {
+    "kotoba": "食事",
+    "kana": "しょくじ",
+    "arti": "Makan",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "練習",
+    "kana": "れんしゅう",
+    "arti": "Latihan",
+    "kategori": "kata benda (N5)"
+  },
+  {
+    "kotoba": "着く",
+    "kana": "つく",
+    "arti": "Tiba",
+    "kategori": "kata kerja (N5)"
+  }
+]
